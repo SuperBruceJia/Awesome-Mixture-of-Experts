@@ -10,6 +10,7 @@ This repository, called **Mixture of Experts**, contains a collection of resourc
 *Welcome to share your papers, thoughts, and ideas by [submitting an issue](https://github.com/SuperBruceJia/Awesome-Mixture-of-Experts/issues/new)!* 
 
 ## Contents
+- [Course](#Course)
 - [Presentations](#Presentations)
 - [Books](#Books)
 - [Papers](#Papers)
@@ -18,6 +19,12 @@ This repository, called **Mixture of Experts**, contains a collection of resourc
   - [Hard Routers](#Hard-Routers)
   - [Soft Routers](#Soft-Routers)
 - [Acknowledgement](#Acknowledgement)
+
+# Course
+**Stanford CS324: Large Language Models**\
+_Percy Liang, Tatsunori Hashimoto, Christopher Ré_\
+[[Link](https://stanford-cs324.github.io/winter2022/lectures/selective-architectures/#mixture-of-experts)]\
+Winter 2022
 
 # Presentations
 
