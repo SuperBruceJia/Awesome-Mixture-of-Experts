@@ -14,7 +14,26 @@ This repository, called **Mixture of Experts**, contains a collection of resourc
 - [Books](#Books)
 - [Papers](#Papers)
   - [Survey](#Survey)
-  - [Foundational Work](#Foundational-Work)
+  - [Foundation Work](#Foundational-Work)
   - [Hard Routers](#Hard-Routers)
   - [Soft Routers](#Soft-Routers)
 - [Acknowledgement](#Acknowledgement)
+
+# Presentations
+
+# Books
+**Foundation Models for Natural Language Processing: Pre-trained Language Models Integrating Media**\
+*Gerhard Paaß, Sven Giesselbach*\
+Artificial Intelligence: Foundations, Theory, and Algorithms (Springer Nature), [[Link](https://link.springer.com/book/10.1007/978-3-031-23190-2)]\
+16 Feb 2023
+
+# Papers
+## Survey
+
+## Foundation Work
+
+## Hard Routers
+
+## Soft Routers
+
+# Acknowledgement
