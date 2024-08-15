@@ -1,1 +1,2 @@
-# Awesome-Mixture-of-Experts
+# Awesome Mixture of Experts (MoE)
+
