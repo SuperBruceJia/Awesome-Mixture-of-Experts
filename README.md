@@ -43,7 +43,7 @@ arXiv, [[Paper](https://arxiv.org/abs/2407.06204)] [[GitHub](https://github.com/
 
 **Routers in Vision Mixture of Experts: An Empirical Study**\
 _Tianlin Liu, Mathieu Blondel, Carlos Riquelme, Joan Puigcerver_\
-Transactions on Machine Learning Research, [[Paper](https://arxiv.org/abs/2401.15969)]\
+Transactions on Machine Learning Research (TMLR), [[Paper](https://arxiv.org/abs/2401.15969)]\
 18 Apr 2024
 
 ## Foundation Work
