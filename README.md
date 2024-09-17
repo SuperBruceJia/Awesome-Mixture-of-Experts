@@ -36,6 +36,10 @@ Artificial Intelligence: Foundations, Theory, and Algorithms (Springer Nature), 
 
 # Papers
 ## Survey
+**Routers in Vision Mixture of Experts: An Empirical Study**\
+_Tianlin Liu, Mathieu Blondel, Carlos Riquelme, Joan Puigcerver_\
+Transactions on Machine Learning Research, [[Paper](https://arxiv.org/abs/2401.15969)]\
+18 Apr 2024
 
 ## Foundation Work
 **Outrageously Large Neural Networks: The Sparsely-Gated Mixture-of-Experts Layer**\
