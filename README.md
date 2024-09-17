@@ -38,6 +38,10 @@ Artificial Intelligence: Foundations, Theory, and Algorithms (Springer Nature), 
 ## Survey
 
 ## Foundation Work
+**Outrageously Large Neural Networks: The Sparsely-Gated Mixture-of-Experts Layer**\
+_Noam Shazeer, Azalia Mirhoseini, Krzysztof Maziarz, Andy Davis, Quoc Le, Geoffrey Hinton, Jeff Dean_\
+ICLR 2017, [[Paper](https://arxiv.org/abs/1701.06538)]\
+23 Jan 2017
 
 ## Hard Routers
 
