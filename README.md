@@ -36,6 +36,11 @@ Artificial Intelligence: Foundations, Theory, and Algorithms (Springer Nature), 
 
 # Papers
 ## Survey
+**A Survey on Mixture of Experts**\
+_Weilin Cai, Juyong Jiang, Fan Wang, Jing Tang, Sunghun Kim, Jiayi Huang_\
+arXiv, [[Paper](https://arxiv.org/abs/2407.06204)]\
+8 Aug 2024
+
 **Routers in Vision Mixture of Experts: An Empirical Study**\
 _Tianlin Liu, Mathieu Blondel, Carlos Riquelme, Joan Puigcerver_\
 Transactions on Machine Learning Research, [[Paper](https://arxiv.org/abs/2401.15969)]\
