@@ -38,7 +38,7 @@ Artificial Intelligence: Foundations, Theory, and Algorithms (Springer Nature), 
 ## Survey
 **A Survey on Mixture of Experts**\
 _Weilin Cai, Juyong Jiang, Fan Wang, Jing Tang, Sunghun Kim, Jiayi Huang_\
-arXiv, [[Paper](https://arxiv.org/abs/2407.06204)]\
+arXiv, [[Paper](https://arxiv.org/abs/2407.06204)] [[GitHub](https://github.com/withinmiaov/A-Survey-on-Mixture-of-Experts)]\
 8 Aug 2024
 
 **Routers in Vision Mixture of Experts: An Empirical Study**\
