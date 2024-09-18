@@ -16,8 +16,9 @@ This repository, called **Mixture of Experts**, contains a collection of resourc
 - [Papers](#Papers)
   - [Survey](#Survey)
   - [Foundation Work](#Foundational-Work)
-  - [Hard Routers](#Hard-Routers)
-  - [Soft Routers](#Soft-Routers)
+  - [Sparse Gating Mechanism](#Sparse-Gating-Mechanism)
+  - [Dense Gating Mechanism](#Dense-Gating-Mechanism)
+  - [Soft Gating Mechanism](#Soft-Gating-Mechanism)
 - [Acknowledgement](#Acknowledgement)
 
 # Course
