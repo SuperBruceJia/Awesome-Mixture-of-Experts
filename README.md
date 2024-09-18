@@ -57,7 +57,8 @@ _Noam Shazeer, Azalia Mirhoseini, Krzysztof Maziarz, Andy Davis, Quoc Le, Geoffr
 ICLR 2017, [[Paper](https://arxiv.org/abs/1701.06538)]\
 23 Jan 2017
 
-## Hard Routers
+## Sparse Gating Mechanism
+_**A subset of experts is activated.**_
 **MoE-LLaVA: Mixture of Experts for Large Vision-Language Models**\
 _Bin Lin, Zhenyu Tang, Yang Ye, Jiaxi Cui, Bin Zhu, Peng Jin, Jinfa Huang, Junwu Zhang, Yatian Pang, Munan Ning, Li Yuan_\
 arXiv, [[Paper](https://arxiv.org/abs/2401.15947)] [[Codes](https://github.com/PKU-YuanGroup/MoE-LLaVA)]\
@@ -68,7 +69,11 @@ _Albert Q. Jiang, Alexandre Sablayrolles, Antoine Roux, Arthur Mensch, Blanche S
 arXiv, [[Paper](https://arxiv.org/abs/2401.04088)]\
 8 Jan 2024
 
-## Soft Routers
+## Dense Gating Mechanism
+_**All the experts are activated.**_
+
+## Soft Gating Mechanism
+_**The fully differentiable approaches including input token merging and expert merging.**_
 
 # Acknowledgement
 This project is sponsored by the [PodGPT](https://podgpt.org/) group, Kolachalama Laboratory at Boston University.
