@@ -73,7 +73,7 @@ arXiv, [[Paper](https://arxiv.org/abs/2401.04088)]\
 _**All the experts are activated.**_
 
 ## Soft Gating Mechanism
-_**The fully differentiable approaches including input token merging and expert merging.**_
+_**The fully differentiable approaches include input token merging and expert merging.**_
 
 # Acknowledgement
 This project is sponsored by the [PodGPT](https://podgpt.org/) group, Kolachalama Laboratory at Boston University.
