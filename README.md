@@ -75,6 +75,10 @@ _Albert Q. Jiang, Alexandre Sablayrolles, Antoine Roux, Arthur Mensch, Blanche S
 arXiv, [[Paper](https://arxiv.org/abs/2401.04088)]\
 8 Jan 2024
 
+### Auxiliary Load Balancing Loss
+
+### Expert Capacity Control
+
 ## Dense Gating Mechanism
 _**All the experts are activated.**_
 
