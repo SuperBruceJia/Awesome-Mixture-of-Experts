@@ -93,7 +93,7 @@ arXiv, [[Paper](https://arxiv.org/abs/2401.04088)]\
 _**All the experts are activated.**_
 
 ## Soft Gating Mechanism
-_**The fully differentiable approaches include input token merging and expert merging.**_
+_The fully differentiable approaches include input **Token Merging** and **Expert Merging**._
 
 ### Token Merging
 
