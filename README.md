@@ -19,6 +19,7 @@ This repository, called **Mixture of Experts**, contains a collection of resourc
   - [Sparse Gating Mechanism](#Sparse-Gating-Mechanism)
     - [Auxiliary Load Balancing Loss](#Auxiliary-Load-Balancing-Loss)
     - [Expert Capacity Limit](#Expert-Capacity-Limit)
+    - [Non-trainable Gating Mechanism](#Non-trainable-Gating-Mechanism)
   - [Dense Gating Mechanism](#Dense-Gating-Mechanism)
   - [Soft Gating Mechanism](#Soft-Gating-Mechanism)
 - [Acknowledgement](#Acknowledgement)
@@ -80,6 +81,8 @@ arXiv, [[Paper](https://arxiv.org/abs/2401.04088)]\
 ### Auxiliary Load Balancing Loss
 
 ### Expert Capacity Limit
+
+### Non-trainable Gating Mechanism
 
 ## Dense Gating Mechanism
 _**All the experts are activated.**_
