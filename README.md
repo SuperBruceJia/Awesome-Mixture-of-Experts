@@ -58,6 +58,11 @@ _Noam Shazeer, Azalia Mirhoseini, Krzysztof Maziarz, Andy Davis, Quoc Le, Geoffr
 ICLR 2017, [[Paper](https://arxiv.org/abs/1701.06538)]\
 23 Jan 2017
 
+**Adaptive Mixtures of Local Experts**\
+_Robert A. Jacobs, Michael I. Jordan, Steven J. Nowlan, Geoffrey E. Hinton_\
+Neural Computation, [[Paper](https://ieeexplore.ieee.org/abstract/document/6797059)]\
+March 1991
+
 ## Sparse Gating Mechanism
 _**A subset of experts is activated.**_
 **MoE-LLaVA: Mixture of Experts for Large Vision-Language Models**\
