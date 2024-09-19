@@ -23,6 +23,8 @@ This repository, called **Mixture of Experts**, contains a collection of resourc
     - [Expert-choice Gating](#Expert-choice-Gating)
   - [Dense Gating Mechanism](#Dense-Gating-Mechanism)
   - [Soft Gating Mechanism](#Soft-Gating-Mechanism)
+    - [Token Merging](#Token-Merging)
+    - [Expert Merging](#Expert-Merging)
 - [Acknowledgement](#Acknowledgement)
 
 # Course
@@ -92,6 +94,10 @@ _**All the experts are activated.**_
 
 ## Soft Gating Mechanism
 _**The fully differentiable approaches include input token merging and expert merging.**_
+
+### Token Merging
+
+### Expert Merging
 
 # Acknowledgement
 This project is sponsored by the [PodGPT](https://podgpt.org/) group, Kolachalama Laboratory at Boston University.
