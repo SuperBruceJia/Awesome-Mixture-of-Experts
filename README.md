@@ -17,6 +17,8 @@ This repository, called **Mixture of Experts**, contains a collection of resourc
   - [Survey](#Survey)
   - [Foundation Work](#Foundational-Work)
   - [Sparse Gating Mechanism](#Sparse-Gating-Mechanism)
+    - [Auxiliary Load Balancing Loss](#Auxiliary-Load-Balancing-Loss)
+    - [Expert Capacity Control](#Expert-Capacity-Control)
   - [Dense Gating Mechanism](#Dense-Gating-Mechanism)
   - [Soft Gating Mechanism](#Soft-Gating-Mechanism)
 - [Acknowledgement](#Acknowledgement)
