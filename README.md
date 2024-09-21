@@ -59,10 +59,15 @@ Transactions on Machine Learning Research (TMLR), [[Paper](https://arxiv.org/abs
 18 Apr 2024
 
 ## Foundation Work
+**Hierarchical Mixtures of Experts and the EM Algorithm**\
+_Michael I. Jordan, Robert A. Jacobs_\
+Neural Computation, [[Paper](https://www.cs.toronto.edu/~hinton/absps/hme.pdf)]\
+1994
+
 **Adaptive Mixtures of Local Experts**\
 _Robert A. Jacobs, Michael I. Jordan, Steven J. Nowlan, Geoffrey E. Hinton_\
 Neural Computation, [[Paper](https://ieeexplore.ieee.org/abstract/document/6797059)]\
-March 1991
+1991
 
 ## Sparse Gating Mechanism
 **MoE-LLaVA: Mixture of Experts for Large Vision-Language Models**\
