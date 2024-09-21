@@ -15,7 +15,7 @@ This repository, called **Mixture of Experts**, contains a collection of resourc
 - [Books](#Books)
 - [Papers](#Papers)
   - [Survey](#Survey)
-  - [Foundation Work](#Foundational-Work)
+  - [Foundational Work](#Foundational-Work)
   - [Sparse Gating Mechanism](#Sparse-Gating-Mechanism)
     - [Auxiliary Load Balancing Loss](#Auxiliary-Load-Balancing-Loss)
     - [Expert Capacity Limit](#Expert-Capacity-Limit)
@@ -58,7 +58,7 @@ _Tianlin Liu, Mathieu Blondel, Carlos Riquelme, Joan Puigcerver_\
 Transactions on Machine Learning Research (TMLR), [[Paper](https://arxiv.org/abs/2401.15969)]\
 18 Apr 2024
 
-## Foundation Work
+## Foundational Work
 **Hierarchical Mixtures of Experts and the EM Algorithm**\
 _Michael I. Jordan, Robert A. Jacobs_\
 Neural Computation, [[Paper](https://www.cs.toronto.edu/~hinton/absps/hme.pdf)]\
