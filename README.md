@@ -59,11 +59,6 @@ Transactions on Machine Learning Research (TMLR), [[Paper](https://arxiv.org/abs
 18 Apr 2024
 
 ## Foundation Work
-**Outrageously Large Neural Networks: The Sparsely-Gated Mixture-of-Experts Layer**\
-_Noam Shazeer, Azalia Mirhoseini, Krzysztof Maziarz, Andy Davis, Quoc Le, Geoffrey Hinton, Jeff Dean_\
-ICLR 2017, [[Paper](https://arxiv.org/abs/1701.06538)]\
-23 Jan 2017
-
 **Adaptive Mixtures of Local Experts**\
 _Robert A. Jacobs, Michael I. Jordan, Steven J. Nowlan, Geoffrey E. Hinton_\
 Neural Computation, [[Paper](https://ieeexplore.ieee.org/abstract/document/6797059)]\
