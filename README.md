@@ -87,6 +87,11 @@ arXiv, [[Paper](https://arxiv.org/abs/2105.15082)]\
 
 ### Auxiliary Load Balance Loss
 _**A subset of experts is activated.**_\
+**_Load Balance Loss and Router Z-loss_ - OpenMoE: An Early Effort on Open Mixture-of-Experts Language Models**\
+_Fuzhao Xue, Zian Zheng, Yao Fu, Jinjie Ni, Zangwei Zheng, Wangchunshu Zhou, Yang You_\
+arXiv, [[Paper](https://arxiv.org/abs/2402.01739)]\
+27 Mar 2024
+
 **_Mutual Information Loss and Mixture of Attention_ - Dense Training, Sparse Inference: Rethinking Training of Mixture-of-Experts Language Models**\
 _Bowen Pan, Yikang Shen, Haokun Liu, Mayank Mishra, Gaoyuan Zhang, Aude Oliva, Colin Raffel, Rameswar Panda_\
 arXiv, [[Paper](https://arxiv.org/abs/2404.05567)]\
