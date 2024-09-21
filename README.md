@@ -82,7 +82,7 @@ arXiv, [[Paper](https://arxiv.org/abs/2105.15082)]\
 9 Aug 2021
 
 ### Auxiliary Load Balancing Loss
-**Mod-Squad: Designing Mixture of Experts As Modular Multi-Task Learners**\
+**_Mutual Information Loss_ - Mod-Squad: Designing Mixture of Experts As Modular Multi-Task Learners**\
 _Zitian Chen, Yikang Shen, Mingyu Ding, Zhenfang Chen, Hengshuang Zhao, Erik Learned-Miller, Chuang Gan_\
 CVPR 2023, [[Paper](https://arxiv.org/abs/2212.08066)]\
 15 Dec 2022
