@@ -81,6 +81,11 @@ _Albert Q. Jiang, Alexandre Sablayrolles, Antoine Roux, Arthur Mensch, Blanche S
 arXiv, [[Paper](https://arxiv.org/abs/2401.04088)]\
 8 Jan 2024
 
+**Outrageously Large Neural Networks: The Sparsely-Gated Mixture-of-Experts Layer**\
+_Noam Shazeer, Azalia Mirhoseini, Krzysztof Maziarz, Andy Davis, Quoc Le, Geoffrey Hinton, Jeff Dean_\
+ICLR 2017, [[Paper](https://arxiv.org/abs/1701.06538)]\
+23 Jan 2017
+
 ### Auxiliary Load Balancing Loss
 
 ### Expert Capacity Limit
