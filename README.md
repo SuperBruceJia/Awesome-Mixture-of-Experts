@@ -76,19 +76,18 @@ _Albert Q. Jiang, Alexandre Sablayrolles, Antoine Roux, Arthur Mensch, Blanche S
 arXiv, [[Paper](https://arxiv.org/abs/2401.04088)]\
 8 Jan 2024
 
-**_Top-1 Routing_ - Switch Transformers: Scaling to Trillion Parameter Models with Simple and Efficient Sparsity**\
-_William Fedus, Barret Zoph, Noam Shazeer_\
-JMLR, [[Paper](https://arxiv.org/abs/2101.03961)]\
-16 Jun 2022
-
 **_k-group Top-1 Routing for Expert Prototyping_ - M6-T: Exploring Sparse Expert Models and Beyond**\
 _An Yang, Junyang Lin, Rui Men, Chang Zhou, Le Jiang, Xianyan Jia, Ang Wang, Jie Zhang, Jiamang Wang, Yong Li, Di Zhang, Wei Lin, Lin Qu, Jingren Zhou, Hongxia Yang_\
 arXiv, [[Paper](https://arxiv.org/abs/2105.15082)]\
 9 Aug 2021
 
 ### Auxiliary Load Balancing Loss
+**_Top-1 Routing and Load Balancing Loss_ - Switch Transformers: Scaling to Trillion Parameter Models with Simple and Efficient Sparsity**\
+_William Fedus, Barret Zoph, Noam Shazeer_\
+JMLR, [[Paper](https://arxiv.org/abs/2101.03961)]\
+16 Jun 2022
 
-**_Top-k Routing and Balance/Load Losses_ - Outrageously Large Neural Networks: The Sparsely-Gated Mixture-of-Experts Layer**\
+**_Top-k Routing and Importance/Load Balancing Losses_ - Outrageously Large Neural Networks: The Sparsely-Gated Mixture-of-Experts Layer**\
 _Noam Shazeer, Azalia Mirhoseini, Krzysztof Maziarz, Andy Davis, Quoc Le, Geoffrey Hinton, Jeff Dean_\
 ICLR 2017, [[Paper](https://arxiv.org/abs/1701.06538)]\
 23 Jan 2017
