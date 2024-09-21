@@ -98,7 +98,7 @@ ICLR 2017, [[Paper](https://arxiv.org/abs/1701.06538)]\
 23 Jan 2017
 
 ### Expert Capacity Limit
-**GShard: Scaling Giant Models with Conditional Computation and Automatic Sharding**\
+**_Expert capacity Threshold_ - GShard: Scaling Giant Models with Conditional Computation and Automatic Sharding**\
 _Dmitry Lepikhin, HyoukJoong Lee, Yuanzhong Xu, Dehao Chen, Orhan Firat, Yanping Huang, Maxim Krikun, Noam Shazeer, Zhifeng Chen_\
 arXiv, [[arXiv](https://arxiv.org/abs/2006.16668)]\
 30 Jun 2020
