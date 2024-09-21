@@ -86,6 +86,11 @@ _Noam Shazeer, Azalia Mirhoseini, Krzysztof Maziarz, Andy Davis, Quoc Le, Geoffr
 ICLR 2017, [[Paper](https://arxiv.org/abs/1701.06538)]\
 23 Jan 2017
 
+**M6-T: Exploring Sparse Expert Models and Beyond**\
+_An Yang, Junyang Lin, Rui Men, Chang Zhou, Le Jiang, Xianyan Jia, Ang Wang, Jie Zhang, Jiamang Wang, Yong Li, Di Zhang, Wei Lin, Lin Qu, Jingren Zhou, Hongxia Yang_\
+arXiv, [[Paper](https://arxiv.org/abs/2105.15082)]\
+9 Aug 2021
+
 ### Auxiliary Load Balancing Loss
 
 ### Expert Capacity Limit
