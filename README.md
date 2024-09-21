@@ -87,6 +87,11 @@ _William Fedus, Barret Zoph, Noam Shazeer_\
 JMLR, [[Paper](https://arxiv.org/abs/2101.03961)]\
 16 Jun 2022
 
+**_Top-2 Routing and Mean Gates Per Experts_ - GShard: Scaling Giant Models with Conditional Computation and Automatic Sharding**\
+_Dmitry Lepikhin, HyoukJoong Lee, Yuanzhong Xu, Dehao Chen, Orhan Firat, Yanping Huang, Maxim Krikun, Noam Shazeer, Zhifeng Chen_\
+arXiv, [[arXiv](https://arxiv.org/abs/2006.16668)]\
+30 Jun 2020
+
 **_Top-k Routing and Importance/Load Balancing Losses_ - Outrageously Large Neural Networks: The Sparsely-Gated Mixture-of-Experts Layer**\
 _Noam Shazeer, Azalia Mirhoseini, Krzysztof Maziarz, Andy Davis, Quoc Le, Geoffrey Hinton, Jeff Dean_\
 ICLR 2017, [[Paper](https://arxiv.org/abs/1701.06538)]\
