@@ -82,6 +82,11 @@ arXiv, [[Paper](https://arxiv.org/abs/2105.15082)]\
 9 Aug 2021
 
 ### Auxiliary Load Balancing Loss
+**_Mutual Information Loss_ - ModuleFormer: Modularity Emerges from Mixture-of-Experts**\
+_Yikang Shen, Zheyu Zhang, Tianyou Cao, Shawn Tan, Zhenfang Chen, Chuang Gan_\
+arXiv, [[Paper](https://arxiv.org/abs/2306.04640)]\
+11 Sep 2023
+
 **_Mutual Information Loss_ - Mod-Squad: Designing Mixture of Experts As Modular Multi-Task Learners**\
 _Zitian Chen, Yikang Shen, Mingyu Ding, Zhenfang Chen, Hengshuang Zhao, Erik Learned-Miller, Chuang Gan_\
 CVPR 2023, [[Paper](https://arxiv.org/abs/2212.08066)]\
