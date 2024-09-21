@@ -108,10 +108,10 @@ arXiv, [[arXiv](https://arxiv.org/abs/2006.16668)]\
 ### Expert-choice Gating
 
 ## Dense Gating Mechanism
-_**All the experts are activated.**_\
+_**All the experts are activated.**_
 
 ## Soft Gating Mechanism
-_The fully differentiable approaches include input **Token Merging** and **Expert Merging**._\
+_The fully differentiable approaches include input **Token Merging** and **Expert Merging**._
 
 ### Token Merging
 
