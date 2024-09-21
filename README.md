@@ -70,7 +70,7 @@ Neural Computation, [[Paper](https://ieeexplore.ieee.org/abstract/document/67970
 March 1991
 
 ## Sparse Gating Mechanism
-_**A subset of experts is activated.**_
+_**A subset of experts is activated.**_\
 **MoE-LLaVA: Mixture of Experts for Large Vision-Language Models**\
 _Bin Lin, Zhenyu Tang, Yang Ye, Jiaxi Cui, Bin Zhu, Peng Jin, Jinfa Huang, Junwu Zhang, Yatian Pang, Munan Ning, Li Yuan_\
 arXiv, [[Paper](https://arxiv.org/abs/2401.15947)] [[Codes](https://github.com/PKU-YuanGroup/MoE-LLaVA)]\
@@ -100,10 +100,10 @@ arXiv, [[Paper](https://arxiv.org/abs/2105.15082)]\
 ### Expert-choice Gating
 
 ## Dense Gating Mechanism
-_**All the experts are activated.**_
+_**All the experts are activated.**_\
 
 ## Soft Gating Mechanism
-_The fully differentiable approaches include input **Token Merging** and **Expert Merging**._
+_The fully differentiable approaches include input **Token Merging** and **Expert Merging**._\
 
 ### Token Merging
 
