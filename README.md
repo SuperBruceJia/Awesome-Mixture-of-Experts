@@ -80,7 +80,7 @@ _An Yang, Junyang Lin, Rui Men, Chang Zhou, Le Jiang, Xianyan Jia, Ang Wang, Jie
 arXiv, [[Paper](https://arxiv.org/abs/2105.15082)]\
 9 Aug 2021
 
-### Auxiliary Load Balancing Loss
+### Auxiliary Load Balance Loss
 _**A subset of experts is activated.**_\
 **_Mutual Information Loss and Mixture of Attention_ - Dense Training, Sparse Inference: Rethinking Training of Mixture-of-Experts Language Models**\
 _Bowen Pan, Yikang Shen, Haokun Liu, Mayank Mishra, Gaoyuan Zhang, Aude Oliva, Colin Raffel, Rameswar Panda_\
@@ -97,7 +97,7 @@ _Zitian Chen, Yikang Shen, Mingyu Ding, Zhenfang Chen, Hengshuang Zhao, Erik Lea
 CVPR 2023, [[Paper](https://arxiv.org/abs/2212.08066)]\
 15 Dec 2022
 
-**_Top-1 Routing and Load Balancing Loss_ - Switch Transformers: Scaling to Trillion Parameter Models with Simple and Efficient Sparsity**\
+**_Top-1 Routing and Load Balance Loss_ - Switch Transformers: Scaling to Trillion Parameter Models with Simple and Efficient Sparsity**\
 _William Fedus, Barret Zoph, Noam Shazeer_\
 JMLR, [[Paper](https://arxiv.org/abs/2101.03961)]\
 16 Jun 2022
@@ -107,7 +107,7 @@ _Dmitry Lepikhin, HyoukJoong Lee, Yuanzhong Xu, Dehao Chen, Orhan Firat, Yanping
 arXiv, [[arXiv](https://arxiv.org/abs/2006.16668)]\
 30 Jun 2020
 
-**_Top-k Routing and Importance/Load Balancing Losses_ - Outrageously Large Neural Networks: The Sparsely-Gated Mixture-of-Experts Layer**\
+**_Top-k Routing and Importance/Load Balance Losses_ - Outrageously Large Neural Networks: The Sparsely-Gated Mixture-of-Experts Layer**\
 _Noam Shazeer, Azalia Mirhoseini, Krzysztof Maziarz, Andy Davis, Quoc Le, Geoffrey Hinton, Jeff Dean_\
 ICLR 2017, [[Paper](https://arxiv.org/abs/1701.06538)]\
 23 Jan 2017
