@@ -86,11 +86,6 @@ _An Yang, Junyang Lin, Rui Men, Chang Zhou, Le Jiang, Xianyan Jia, Ang Wang, Jie
 arXiv, [[Paper](https://arxiv.org/abs/2105.15082)]\
 9 Aug 2021
 
-**_Top-k Routing and Balance/Load Losses_ - Outrageously Large Neural Networks: The Sparsely-Gated Mixture-of-Experts Layer**\
-_Noam Shazeer, Azalia Mirhoseini, Krzysztof Maziarz, Andy Davis, Quoc Le, Geoffrey Hinton, Jeff Dean_\
-ICLR 2017, [[Paper](https://arxiv.org/abs/1701.06538)]\
-23 Jan 2017
-
 ### Auxiliary Load Balancing Loss
 
 **_Top-k Routing and Balance/Load Losses_ - Outrageously Large Neural Networks: The Sparsely-Gated Mixture-of-Experts Layer**\
