@@ -92,7 +92,7 @@ _William Fedus, Barret Zoph, Noam Shazeer_\
 JMLR, [[Paper](https://arxiv.org/abs/2101.03961)]\
 16 Jun 2022
 
-**_Top-2 Routing and Mean Gates Per Experts_ - GShard: Scaling Giant Models with Conditional Computation and Automatic Sharding**\
+**_Top-2 Routing and Mean Gates Per Experts Loss_ - GShard: Scaling Giant Models with Conditional Computation and Automatic Sharding**\
 _Dmitry Lepikhin, HyoukJoong Lee, Yuanzhong Xu, Dehao Chen, Orhan Firat, Yanping Huang, Maxim Krikun, Noam Shazeer, Zhifeng Chen_\
 arXiv, [[arXiv](https://arxiv.org/abs/2006.16668)]\
 30 Jun 2020
