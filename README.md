@@ -107,6 +107,11 @@ _William Fedus, Barret Zoph, Noam Shazeer_\
 JMLR, [[Paper](https://arxiv.org/abs/2101.03961)]\
 16 Jun 2022
 
+**ST-MoE: Designing Stable and Transferable Sparse Expert Models**\
+_Barret Zoph, Irwan Bello, Sameer Kumar, Nan Du, Yanping Huang, Jeff Dean, Noam Shazeer, William Fedus_\
+arXiv, [[Paper](https://arxiv.org/abs/2202.08906)]\
+29 Apr 2022
+
 **_Top-2 Routing and Mean Gates Per Experts Loss_ - GShard: Scaling Giant Models with Conditional Computation and Automatic Sharding**\
 _Dmitry Lepikhin, HyoukJoong Lee, Yuanzhong Xu, Dehao Chen, Orhan Firat, Yanping Huang, Maxim Krikun, Noam Shazeer, Zhifeng Chen_\
 arXiv, [[arXiv](https://arxiv.org/abs/2006.16668)]\
