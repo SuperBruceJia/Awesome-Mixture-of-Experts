@@ -66,6 +66,11 @@ March 1991
 
 ## Sparse Gating Mechanism
 _**A subset of experts is activated.**_\
+**Dense Training, Sparse Inference: Rethinking Training of Mixture-of-Experts Language Models**\
+_Bowen Pan, Yikang Shen, Haokun Liu, Mayank Mishra, Gaoyuan Zhang, Aude Oliva, Colin Raffel, Rameswar Panda_\
+arXiv, [[Paper](https://arxiv.org/abs/2404.05567)]\
+8 Apr 2024
+
 **MoE-LLaVA: Mixture of Experts for Large Vision-Language Models**\
 _Bin Lin, Zhenyu Tang, Yang Ye, Jiaxi Cui, Bin Zhu, Peng Jin, Jinfa Huang, Junwu Zhang, Yatian Pang, Munan Ning, Li Yuan_\
 arXiv, [[Paper](https://arxiv.org/abs/2401.15947)] [[Codes](https://github.com/PKU-YuanGroup/MoE-LLaVA)]\
