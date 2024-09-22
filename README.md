@@ -144,6 +144,11 @@ _Chufan Shi, Cheng Yang, Xinyu Zhu, Jiahao Wang, Taiqiang Wu, Siheng Li, Deng Ca
 arXiv, [[Paper](https://arxiv.org/abs/2405.14507)]\
 23 May 2024
 
+**Hash Layers For Large Sparse Models**\
+_Stephen Roller, Sainbayar Sukhbaatar, Arthur Szlam, Jason Weston_\
+arXiv, [[Paper](https://arxiv.org/abs/2106.04426)]\
+20 Jul 2021
+
 ### Expert-choice Gating
 
 ## Dense Gating Mechanism
