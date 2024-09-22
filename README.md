@@ -128,6 +128,11 @@ ICLR 2017, [[Paper](https://arxiv.org/abs/1701.06538)]\
 23 Jan 2017
 
 ### Expert Capacity Limit
+**Dynamic Mixture of Experts: An Auto-Tuning Approach for Efficient Transformer Models**\
+_Yongxin Guo, Zhenglin Cheng, Xiaoying Tang, Tao Lin_\
+arXiv, [[Paper](https://arxiv.org/abs/2405.14297)]\
+23 May 2024
+
 **_Expert capacity Threshold_ - GShard: Scaling Giant Models with Conditional Computation and Automatic Sharding**\
 _Dmitry Lepikhin, HyoukJoong Lee, Yuanzhong Xu, Dehao Chen, Orhan Firat, Yanping Huang, Maxim Krikun, Noam Shazeer, Zhifeng Chen_\
 arXiv, [[arXiv](https://arxiv.org/abs/2006.16668)]\
