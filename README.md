@@ -158,6 +158,10 @@ arXiv, [[Paper](https://arxiv.org/abs/2106.04426)]\
 20 Jul 2021
 
 #### Domain Mapping
+**DEMix Layers: Disentangling Domains for Modular Language Modeling**\
+_Suchin Gururangan, Mike Lewis, Ari Holtzman, Noah A. Smith, Luke Zettlemoyer_\
+arXiv, [[Paper](https://arxiv.org/abs/2108.05036)]\
+20 Aug 2021
 
 ### Expert-choice Gating
 
