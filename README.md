@@ -170,7 +170,7 @@ NeurIPS 2022, [[Paper](https://arxiv.org/abs/2202.09368)]\
 14 Oct 2022
 
 ## Dense Gating Mechanism
-_**All the experts are activated.**_
+_**All the experts are activated.**_\
 **MoELoRA: Contrastive Learning Guided Mixture of Experts on Parameter-Efficient Fine-Tuning for Large Language Models**\
 _Tongxu Luo, Jiahe Lei, Fangyu Lei, Weihao Liu, Shizhu He, Jun Zhao, Kang Liu_\
 arXiv, [[Paper](https://arxiv.org/abs/2402.12851)]\
