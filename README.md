@@ -144,6 +144,11 @@ _Chufan Shi, Cheng Yang, Xinyu Zhu, Jiahao Wang, Taiqiang Wu, Siheng Li, Deng Ca
 arXiv, [[Paper](https://arxiv.org/abs/2405.14507)]\
 23 May 2024
 
+**_Randomly Allocate 2 Experts_ - Taming Sparsely Activated Transformer with Stochastic Experts**\
+_Simiao Zuo, Xiaodong Liu, Jian Jiao, Young Jin Kim, Hany Hassan, Ruofei Zhang, Tuo Zhao, Jianfeng Gao_\
+ICLR 2022, [[Paper](https://arxiv.org/abs/2110.04260)]\
+3 Feb 2022
+
 **Hash Layers For Large Sparse Models**\
 _Stephen Roller, Sainbayar Sukhbaatar, Arthur Szlam, Jason Weston_\
 arXiv, [[Paper](https://arxiv.org/abs/2106.04426)]\
