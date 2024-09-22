@@ -177,7 +177,7 @@ arXiv, [[Paper](https://arxiv.org/abs/2402.12851)]\
 20 Feb 2024
 
 ## Soft Gating Mechanism
-_The fully differentiable approaches include input **Token Merging** and **Expert Merging**._
+_**Dense Gating Mechanism + Gating-weighted Merging of Input Tokens or Experts**_
 
 ### Token Merging
 
