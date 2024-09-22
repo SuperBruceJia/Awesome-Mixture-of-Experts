@@ -82,6 +82,11 @@ _Albert Q. Jiang, Alexandre Sablayrolles, Antoine Roux, Arthur Mensch, Blanche S
 arXiv, [[Paper](https://arxiv.org/abs/2401.04088)]\
 8 Jan 2024
 
+**_Mixture of Attention Heads (MoA)_ - Mixture of Attention Heads: Selecting Attention Heads Per Token**\
+_Xiaofeng Zhang, Yikang Shen, Zeyu Huang, Jie Zhou, Wenge Rong, Zhang Xiong_\
+EMNLP 2022, [[Paper](https://arxiv.org/abs/2210.05144)]\
+11 Oct 2022
+
 **_k-group Top-1 Routing for Expert Prototyping_ - M6-T: Exploring Sparse Expert Models and Beyond**\
 _An Yang, Junyang Lin, Rui Men, Chang Zhou, Le Jiang, Xianyan Jia, Ang Wang, Jie Zhang, Jiamang Wang, Yong Li, Di Zhang, Wei Lin, Lin Qu, Jingren Zhou, Hongxia Yang_\
 arXiv, [[Paper](https://arxiv.org/abs/2105.15082)]\
