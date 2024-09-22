@@ -178,7 +178,6 @@ arXiv, [[Paper](https://arxiv.org/abs/2402.12851)]\
 
 ## Soft Gating Mechanism
 _**Dense Gating Mechanism + Gating-weighted Merging of Input Tokens or Experts**_
-
 ### Token Merging
 
 ### Expert Merging
