@@ -185,6 +185,10 @@ ICLR 2024, [[Paper](https://arxiv.org/abs/2308.00951)]\
 27 May 2024
 
 ### Expert Merging
+**Soft Merging of Experts with Adaptive Routing**\
+_Mohammed Muqeeth, Haokun Liu, Colin Raffel_\
+TMLR, [[Paper](https://arxiv.org/abs/2306.03745)]\
+13 May 2024
 
 # Acknowledgement
 This project is sponsored by the [PodGPT](https://podgpt.org/) group, Kolachalama Laboratory at Boston University.
