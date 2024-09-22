@@ -20,6 +20,8 @@ This repository, called **Mixture of Experts**, contains a collection of resourc
     - [Auxiliary Load Balancing Loss](#Auxiliary-Load-Balancing-Loss)
     - [Expert Capacity Limit](#Expert-Capacity-Limit)
     - [Non-trainable Gating Mechanism](#Non-trainable-Gating-Mechanism)
+      - [Random Assignment](#Random-Assignment)
+      - [Domain Mapping](#Domain-Mapping)
     - [Expert-choice Gating](#Expert-choice-Gating)
   - [Dense Gating Mechanism](#Dense-Gating-Mechanism)
   - [Soft Gating Mechanism](#Soft-Gating-Mechanism)
@@ -139,6 +141,7 @@ arXiv, [[arXiv](https://arxiv.org/abs/2006.16668)]\
 30 Jun 2020
 
 ### Non-trainable Gating Mechanism
+#### Random Assignment
 **_For Inference_ - Unchosen Experts Can Contribute Too: Unleashing MoE Models' Power by Self-Contrast**\
 _Chufan Shi, Cheng Yang, Xinyu Zhu, Jiahao Wang, Taiqiang Wu, Siheng Li, Deng Cai, Yujiu Yang, Yu Meng_\
 arXiv, [[Paper](https://arxiv.org/abs/2405.14507)]\
@@ -153,6 +156,8 @@ ICLR 2022, [[Paper](https://arxiv.org/abs/2110.04260)]\
 _Stephen Roller, Sainbayar Sukhbaatar, Arthur Szlam, Jason Weston_\
 arXiv, [[Paper](https://arxiv.org/abs/2106.04426)]\
 20 Jul 2021
+
+#### Domain Mapping
 
 ### Expert-choice Gating
 
