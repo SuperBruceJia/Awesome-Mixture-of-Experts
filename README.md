@@ -139,6 +139,10 @@ arXiv, [[arXiv](https://arxiv.org/abs/2006.16668)]\
 30 Jun 2020
 
 ### Non-trainable Gating Mechanism
+**_For Inference_ - Unchosen Experts Can Contribute Too: Unleashing MoE Models' Power by Self-Contrast**\
+_Chufan Shi, Cheng Yang, Xinyu Zhu, Jiahao Wang, Taiqiang Wu, Siheng Li, Deng Cai, Yujiu Yang, Yu Meng_\
+arXiv, [[Paper](https://arxiv.org/abs/2405.14507)]\
+23 May 2024
 
 ### Expert-choice Gating
 
