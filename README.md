@@ -118,6 +118,11 @@ _Yunhao Gou, Zhili Liu, Kai Chen, Lanqing Hong, Hang Xu, Aoxue Li, Dit-Yan Yeung
 arXiv, [[Paper](https://arxiv.org/abs/2312.12379)]\
 4 Jul 2024
 
+**_All the Layers_ - Omni-SMoLA: Boosting Generalist Multimodal Models with Soft Mixture of Low-rank Experts**\
+_Jialin Wu, Xia Hu, Yaqing Wang, Bo Pang, Radu Soricut_\
+arXiv, [[Paper](https://arxiv.org/abs/2312.00968)]\
+2 Apr 2024
+
 **_FFN_ - LoRAMoE: Alleviate World Knowledge Forgetting in Large Language Models via MoE-Style Plugin**\
 _Shihan Dou, Enyu Zhou, Yan Liu, Songyang Gao, Jun Zhao, Wei Shen, Yuhao Zhou, Zhiheng Xi, Xiao Wang, Xiaoran Fan, Shiliang Pu, Jiang Zhu, Rui Zheng, Tao Gui, Qi Zhang, Xuanjing Huang_\
 arXiv, [[Paper](https://arxiv.org/abs/2312.09979)]\
