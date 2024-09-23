@@ -91,6 +91,11 @@ _Dengchun Li, Yingzi Ma, Naizheng Wang, Zhengmao Ye, Zhiyuan Cheng, Yinghao Tang
 arXiv, [[Paper](https://arxiv.org/abs/2404.15159)]\
 20 Jul 2024
 
+**_Load Balance Loss_ - MoE-LLaVA: Mixture of Experts for Large Vision-Language Models**\
+_Bin Lin, Zhenyu Tang, Yang Ye, Jiaxi Cui, Bin Zhu, Peng Jin, Jinfa Huang, Junwu Zhang, Yatian Pang, Munan Ning, Li Yuan_\
+arXiv, [[Paper](https://arxiv.org/abs/2401.15947)] [[Codes](https://github.com/PKU-YuanGroup/MoE-LLaVA)]\
+6 Jul 2024
+
 ### Auxiliary Load Balance Loss
 _**A subset of experts is activated.**_\
 **_Load Balance Loss_ - MixLoRA: Enhancing Large Language Models Fine-Tuning with LoRA-based Mixture of Experts**\
