@@ -1,4 +1,4 @@
-# Awesome Mixture of Experts (MoE) and Multimodal Mixture of Experts (MoME)
+# Awesome Mixture of Experts (MoE)
 Awesome Mixture of Experts (MoE): A Curated List of Mixture of Experts (MoE) and Mixture of Multimodal Experts (MoME)
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/SuperBruceJia/Awesome-Mixture-of-Experts) 
