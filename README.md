@@ -111,7 +111,7 @@ _Tongxu Luo, Jiahe Lei, Fangyu Lei, Weihao Liu, Shizhu He, Jun Zhao, Kang Liu_\
 arXiv, [[Paper](https://arxiv.org/abs/2402.12851)]\
 20 Feb 2024
 
-**_All the layers_ - Higher Layers Need More LoRA Experts**\
+**_All the Layers_ - Higher Layers Need More LoRA Experts**\
 _Chongyang Gao, Kezhen Chen, Jinmeng Rao, Baochen Sun, Ruibo Liu, Daiyi Peng, Yawen Zhang, Xiaoyuan Guo, Jie Yang, VS Subrahmanian_\
 arXiv, [[Paper](https://arxiv.org/abs/2402.08562)]\
 13 Feb 2024
