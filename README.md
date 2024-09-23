@@ -55,7 +55,7 @@ ICML 2024, [[Presentation](https://icml.cc/media/icml-2024/Slides/35222_1r94S59.
 # Books
 **The Path to Artificial General Intelligence: Insights from Adversarial LLM Dialogue**\
 _Edward Y. Chang_\
-SocraSynth.com, [[Link](https://www.amazon.com/dp/1962463303)]\
+Stanford University, [[Link](https://www.amazon.com/dp/1962463303)]\
 March 2024
 
 **Foundation Models for Natural Language Processing: Pre-trained Language Models Integrating Media**\
