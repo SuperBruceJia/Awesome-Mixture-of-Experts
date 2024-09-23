@@ -185,6 +185,11 @@ _Tongxu Luo, Jiahe Lei, Fangyu Lei, Weihao Liu, Shizhu He, Jun Zhao, Kang Liu_\
 arXiv, [[Paper](https://arxiv.org/abs/2402.12851)]\
 20 Feb 2024
 
+**_Load Balance Loss_ - SiRA: Sparse Mixture of Low Rank Adaptation**\
+_Yun Zhu, Nevan Wichers, Chu-Cheng Lin, Xinyi Wang, Tianlong Chen, Lei Shu, Han Lu, Canoee Liu, Liangchen Luo, Jindong Chen, Lei Meng_\
+arXiv, [[Paper]([15 Nov 2023](https://arxiv.org/abs/2311.09179))]\
+15 Nov 2023
+
 **_Mutual Information Loss_ - ModuleFormer: Modularity Emerges from Mixture-of-Experts**\
 _Yikang Shen, Zheyu Zhang, Tianyou Cao, Shawn Tan, Zhenfang Chen, Chuang Gan_\
 arXiv, [[Paper](https://arxiv.org/abs/2306.04640)]\
