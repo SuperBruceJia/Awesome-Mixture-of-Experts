@@ -47,8 +47,8 @@ University of Pittsburgh, [[Link](https://people.cs.pitt.edu/~milos/courses/cs27
 Spring 2004
 
 # Presentation
-**Mixture-of-Experts in the Era of LLMs: A New Odyssey**
-_Tianlong Chen, Yu Cheng, Beidi Chen, Minjia Zhang, Mohit Bansal_
+**Mixture-of-Experts in the Era of LLMs: A New Odyssey**\
+_Tianlong Chen, Yu Cheng, Beidi Chen, Minjia Zhang, Mohit Bansal_\
 ICML 2024, [[Presentation](https://icml.cc/media/icml-2024/Slides/35222_1r94S59.pdf#page=1.00)]\
 2024
 
