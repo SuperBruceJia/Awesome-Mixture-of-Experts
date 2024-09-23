@@ -138,6 +138,11 @@ _Chongyang Gao, Kezhen Chen, Jinmeng Rao, Baochen Sun, Ruibo Liu, Daiyi Peng, Ya
 arXiv, [[Paper](https://arxiv.org/abs/2402.08562)]\
 13 Feb 2024
 
+**_FFN_ - LLaVA-MoLE: Sparse Mixture of LoRA Experts for Mitigating Data Conflicts in Instruction Finetuning MLLMs**\
+_Shaoxiang Chen, Zequn Jie, Lin Ma_\
+arXiv, [[Paper](https://arxiv.org/abs/2401.16160)]\
+30 Jan 2024
+
 **AdaMix: Mixture-of-Adaptations for Parameter-efficient Model Tuning**\
 _Yaqing Wang, Sahaj Agarwal, Subhabrata Mukherjee, Xiaodong Liu, Jing Gao, Ahmed Hassan Awadallah, Jianfeng Gao_\
 EMNLP 2022, [[Paper](https://arxiv.org/abs/2205.12410)]\
