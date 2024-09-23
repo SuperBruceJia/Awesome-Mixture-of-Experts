@@ -123,6 +123,11 @@ _Fuzhao Xue, Zian Zheng, Yao Fu, Jinjie Ni, Zangwei Zheng, Wangchunshu Zhou, Yan
 arXiv, [[Paper](https://arxiv.org/abs/2402.01739)]\
 27 Mar 2024
 
+**_Load Balance Loss and Contrastive Loss_ - MoELoRA: Contrastive Learning Guided Mixture of Experts on Parameter-Efficient Fine-Tuning for Large Language Models**\
+_Tongxu Luo, Jiahe Lei, Fangyu Lei, Weihao Liu, Shizhu He, Jun Zhao, Kang Liu_\
+arXiv, [[Paper](https://arxiv.org/abs/2402.12851)]\
+20 Feb 2024
+
 **_Mutual Information Loss_ - ModuleFormer: Modularity Emerges from Mixture-of-Experts**\
 _Yikang Shen, Zheyu Zhang, Tianyou Cao, Shawn Tan, Zhenfang Chen, Chuang Gan_\
 arXiv, [[Paper](https://arxiv.org/abs/2306.04640)]\
