@@ -138,6 +138,11 @@ _Chongyang Gao, Kezhen Chen, Jinmeng Rao, Baochen Sun, Ruibo Liu, Daiyi Peng, Ya
 arXiv, [[Paper](https://arxiv.org/abs/2402.08562)]\
 13 Feb 2024
 
+**AdaMix: Mixture-of-Adaptations for Parameter-efficient Model Tuning**\
+_Yaqing Wang, Sahaj Agarwal, Subhabrata Mukherjee, Xiaodong Liu, Jing Gao, Ahmed Hassan Awadallah, Jianfeng Gao_\
+EMNLP 2022, [[Paper](https://arxiv.org/abs/2205.12410)]\
+2 Nov 2022
+
 ### Auxiliary Load Balance Loss
 _**A subset of experts is activated.**_\
 **_Load Balance Loss_ - MixLoRA: Enhancing Large Language Models Fine-Tuning with LoRA-based Mixture of Experts**\
