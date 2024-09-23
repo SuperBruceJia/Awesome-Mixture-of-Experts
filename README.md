@@ -17,6 +17,7 @@ This repository, called **Mixture of Experts**, contains a collection of resourc
   - [Survey](#Survey)
   - [Foundational Work](#Foundational-Work)
   - [Sparse Gating Mechanism](#Sparse-Gating-Mechanism)
+    - [Parameter-efficient Fine-tuning](#Parameter-efficient-Fine-tuning)
     - [Auxiliary Load Balancing Loss](#Auxiliary-Load-Balancing-Loss)
     - [Expert Capacity Limit](#Expert-Capacity-Limit)
     - [Non-trainable Gating Mechanism](#Non-trainable-Gating-Mechanism)
@@ -86,6 +87,8 @@ EMNLP 2022, [[Paper](https://arxiv.org/abs/2210.05144)]\
 _An Yang, Junyang Lin, Rui Men, Chang Zhou, Le Jiang, Xianyan Jia, Ang Wang, Jie Zhang, Jiamang Wang, Yong Li, Di Zhang, Wei Lin, Lin Qu, Jingren Zhou, Hongxia Yang_\
 arXiv, [[Paper](https://arxiv.org/abs/2105.15082)]\
 9 Aug 2021
+
+### Parameter-efficient Fine-tuning
 
 ### Auxiliary Load Balance Loss
 _**A subset of experts is activated.**_\
