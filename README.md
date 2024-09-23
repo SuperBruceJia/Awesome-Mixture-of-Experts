@@ -31,7 +31,7 @@ This repository, called **Mixture of Experts**, contains a collection of resourc
 - [Acknowledgement](#Acknowledgement)
 
 # Course
-**Stanford CS324: Large Language Models - Selective Architectures**\
+**CS324: Large Language Models - Selective Architectures**\
 _Percy Liang, Tatsunori Hashimoto, Christopher Ré_\
 [[Link](https://stanford-cs324.github.io/winter2022/lectures/selective-architectures/#mixture-of-experts)]\
 Winter 2022
