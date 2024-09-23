@@ -79,7 +79,7 @@ Transactions on Machine Learning Research (TMLR), [[Paper](https://arxiv.org/abs
 **Hierarchical Mixtures of Experts and the EM Algorithm**\
 _Michael I. Jordan, Robert A. Jacobs_\
 Neural Computation, [[Paper](https://www.cs.toronto.edu/~hinton/absps/hme.pdf)]\
-1994
+1993
 
 **Adaptive Mixtures of Local Experts**\
 _Robert A. Jacobs, Michael I. Jordan, Steven J. Nowlan, Geoffrey E. Hinton_\
