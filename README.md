@@ -138,7 +138,7 @@ _Shu Yang, Muhammad Asif Ali, Cheng-Long Wang, Lijie Hu, Di Wang_\
 arXiv, [[Paper](https://arxiv.org/abs/2402.11260)]
 17 Feb 2024
 
-**_All the Layers_ - Higher Layers Need More LoRA Experts**\
+**_All the Layers_ - MoLA: Higher Layers Need More LoRA Experts**\
 _Chongyang Gao, Kezhen Chen, Jinmeng Rao, Baochen Sun, Ruibo Liu, Daiyi Peng, Yawen Zhang, Xiaoyuan Guo, Jie Yang, VS Subrahmanian_\
 arXiv, [[Paper](https://arxiv.org/abs/2402.08562)]\
 13 Feb 2024
