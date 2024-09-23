@@ -94,6 +94,11 @@ arXiv, [[Paper](https://arxiv.org/abs/2105.15082)]\
 
 ### Auxiliary Load Balance Loss
 _**A subset of experts is activated.**_\
+**MixLoRA: Enhancing Large Language Models Fine-Tuning with LoRA-based Mixture of Experts**\
+_Dengchun Li, Yingzi Ma, Naizheng Wang, Zhengmao Ye, Zhiyuan Cheng, Yinghao Tang, Yan Zhang, Lei Duan, Jie Zuo, Cal Yang, Mingjie Tang_\
+arXiv, [[Paper](https://arxiv.org/abs/2404.15159)]\
+20 Jul 2024
+
 **_Mutual Information Loss and Mixture of Attention_ - Dense Training, Sparse Inference: Rethinking Training of Mixture-of-Experts Language Models**\
 _Bowen Pan, Yikang Shen, Haokun Liu, Mayank Mishra, Gaoyuan Zhang, Aude Oliva, Colin Raffel, Rameswar Panda_\
 arXiv, [[Paper](https://arxiv.org/abs/2404.05567)]\
