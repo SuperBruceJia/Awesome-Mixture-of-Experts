@@ -35,14 +35,19 @@ _Percy Liang, Tatsunori Hashimoto, Christopher Ré_\
 [[Link](https://stanford-cs324.github.io/winter2022/lectures/selective-architectures/#mixture-of-experts)]\
 Winter 2022
 
+**CS 2750 Machine Learning: Ensamble methods. Mixtures of experts**\
+_Milos Hauskrecht_\
+[[Link](https://people.cs.pitt.edu/~milos/courses/cs2750-Spring04/lectures/class22.pdf)]\
+2004
+
 # Books
 **The Path to Artificial General Intelligence: Insights from Adversarial LLM Dialogue**\
-*Edward Y. Chang*\
+_Edward Y. Chang_\
 SocraSynth.com, [[Link](https://www.amazon.com/dp/1962463303)]\
 March 2024
 
 **Foundation Models for Natural Language Processing: Pre-trained Language Models Integrating Media**\
-*Gerhard Paaß, Sven Giesselbach*\
+_Gerhard Paaß, Sven Giesselbach_\
 Artificial Intelligence: Foundations, Theory, and Algorithms (Springer Nature), [[Link](https://link.springer.com/book/10.1007/978-3-031-23190-2)]\
 16 Feb 2023
 
