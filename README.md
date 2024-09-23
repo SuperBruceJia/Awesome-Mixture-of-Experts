@@ -11,6 +11,7 @@ This repository, called **Mixture of Experts**, contains a collection of resourc
 
 ## Contents
 - [Course](#Course)
+- [Presentation](#Presentation)
 - [Books](#Books)
 - [Papers](#Papers)
   - [Survey](#Survey)
@@ -44,6 +45,12 @@ Winter 2014
 _Milos Hauskrecht_\
 [[Link](https://people.cs.pitt.edu/~milos/courses/cs2750-Spring04/lectures/class22.pdf)]\
 Spring 2004
+
+# Presentation
+**Mixture-of-Experts in the Era of LLMs: A New Odyssey**
+_Tianlong Chen, Yu Cheng, Beidi Chen, Minjia Zhang, Mohit Bansal_
+ICML 2024, [[Presentation](https://icml.cc/media/icml-2024/Slides/35222_1r94S59.pdf#page=1.00)]\
+2024
 
 # Books
 **The Path to Artificial General Intelligence: Insights from Adversarial LLM Dialogue**\
