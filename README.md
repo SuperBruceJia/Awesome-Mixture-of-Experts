@@ -113,7 +113,7 @@ _Bin Lin, Zhenyu Tang, Yang Ye, Jiaxi Cui, Bin Zhu, Peng Jin, Jinfa Huang, Junwu
 arXiv, [[Paper](https://arxiv.org/abs/2401.15947)] [[Codes](https://github.com/PKU-YuanGroup/MoE-LLaVA)]\
 6 Jul 2024
 
-**_Linear Layer_ - Mixture of Cluster-conditional LoRA Experts for Vision-language Instruction Tuning**\
+**"q_proj", "v_proj" (InstructBLIP) and "up_proj", "down_proj" (LLaVA-1.5) - MoCLE: Mixture of Cluster-conditional LoRA Experts for Vision-language Instruction Tuning**\
 _Yunhao Gou, Zhili Liu, Kai Chen, Lanqing Hong, Hang Xu, Aoxue Li, Dit-Yan Yeung, James T. Kwok, Yu Zhang_\
 arXiv, [[Paper](https://arxiv.org/abs/2312.12379)]\
 4 Jul 2024
