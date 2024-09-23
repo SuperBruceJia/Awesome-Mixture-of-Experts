@@ -128,6 +128,11 @@ _Fuzhao Xue, Zian Zheng, Yao Fu, Jinjie Ni, Zangwei Zheng, Wangchunshu Zhou, Yan
 arXiv, [[Paper](https://arxiv.org/abs/2402.01739)]\
 27 Mar 2024
 
+**_Localized Balancing Constraint Loss_ - LoRAMoE: Alleviate World Knowledge Forgetting in Large Language Models via MoE-Style Plugin**\
+_Shihan Dou, Enyu Zhou, Yan Liu, Songyang Gao, Jun Zhao, Wei Shen, Yuhao Zhou, Zhiheng Xi, Xiao Wang, Xiaoran Fan, Shiliang Pu, Jiang Zhu, Rui Zheng, Tao Gui, Qi Zhang, Xuanjing Huang_\
+arXiv, [[Paper](https://arxiv.org/abs/2312.09979)]\
+8 Mar 2024
+
 **_Load Balance Loss and Contrastive Loss_ - MoELoRA: Contrastive Learning Guided Mixture of Experts on Parameter-Efficient Fine-Tuning for Large Language Models**\
 _Tongxu Luo, Jiahe Lei, Fangyu Lei, Weihao Liu, Shizhu He, Jun Zhao, Kang Liu_\
 arXiv, [[Paper](https://arxiv.org/abs/2402.12851)]\
