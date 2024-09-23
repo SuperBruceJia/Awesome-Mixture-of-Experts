@@ -143,6 +143,11 @@ _Shaoxiang Chen, Zequn Jie, Lin Ma_\
 arXiv, [[Paper](https://arxiv.org/abs/2401.16160)]\
 30 Jan 2024
 
+**_Attention Projections_ - SiRA: Sparse Mixture of Low Rank Adaptation**\
+_Yun Zhu, Nevan Wichers, Chu-Cheng Lin, Xinyi Wang, Tianlong Chen, Lei Shu, Han Lu, Canoee Liu, Liangchen Luo, Jindong Chen, Lei Meng_\
+arXiv, [[Paper]([15 Nov 2023](https://arxiv.org/abs/2311.09179))]\
+15 Nov 2023
+
 **AdaMix: Mixture-of-Adaptations for Parameter-efficient Model Tuning**\
 _Yaqing Wang, Sahaj Agarwal, Subhabrata Mukherjee, Xiaodong Liu, Jing Gao, Ahmed Hassan Awadallah, Jianfeng Gao_\
 EMNLP 2022, [[Paper](https://arxiv.org/abs/2205.12410)]\
