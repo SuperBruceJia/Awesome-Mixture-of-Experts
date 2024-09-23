@@ -33,17 +33,17 @@ This repository, called **Mixture of Experts**, contains a collection of resourc
 # Course
 **CS324: Large Language Models - Selective Architectures**\
 _Percy Liang, Tatsunori Hashimoto, Christopher Ré_\
-[[Link](https://stanford-cs324.github.io/winter2022/lectures/selective-architectures/#mixture-of-experts)]\
+Stanford University, [[Link](https://stanford-cs324.github.io/winter2022/lectures/selective-architectures/#mixture-of-experts)]\
 Winter 2022
 
 **CSC321: Introduction to Neural Networks and Machine Learning - Mixtures of Experts**\
 _Geoffrey Hinton_\
-[[Link](https://www.cs.toronto.edu/~hinton/csc321/notes/lec15.pdf)]\
+University of Toronto, [[Link](https://www.cs.toronto.edu/~hinton/csc321/notes/lec15.pdf)]\
 Winter 2014
 
 **CS2750: Machine Learning - Ensamble Methods and Mixtures of Experts**\
 _Milos Hauskrecht_\
-[[Link](https://people.cs.pitt.edu/~milos/courses/cs2750-Spring04/lectures/class22.pdf)]\
+University of Pittsburgh, [[Link](https://people.cs.pitt.edu/~milos/courses/cs2750-Spring04/lectures/class22.pdf)]\
 Spring 2004
 
 # Presentation
