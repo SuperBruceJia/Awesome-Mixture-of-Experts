@@ -86,15 +86,20 @@ arXiv, [[Paper](https://arxiv.org/abs/2105.15082)]\
 9 Aug 2021
 
 ### Parameter-efficient Fine-tuning
-**_Load Balance Loss_ - MixLoRA: Enhancing Large Language Models Fine-Tuning with LoRA-based Mixture of Experts**\
+**MixLoRA: Enhancing Large Language Models Fine-Tuning with LoRA-based Mixture of Experts**\
 _Dengchun Li, Yingzi Ma, Naizheng Wang, Zhengmao Ye, Zhiyuan Cheng, Yinghao Tang, Yan Zhang, Lei Duan, Jie Zuo, Cal Yang, Mingjie Tang_\
 arXiv, [[Paper](https://arxiv.org/abs/2404.15159)]\
 20 Jul 2024
 
-**_Load Balance Loss_ - MoE-LLaVA: Mixture of Experts for Large Vision-Language Models**\
+**MoE-LLaVA: Mixture of Experts for Large Vision-Language Models**\
 _Bin Lin, Zhenyu Tang, Yang Ye, Jiaxi Cui, Bin Zhu, Peng Jin, Jinfa Huang, Junwu Zhang, Yatian Pang, Munan Ning, Li Yuan_\
 arXiv, [[Paper](https://arxiv.org/abs/2401.15947)] [[Codes](https://github.com/PKU-YuanGroup/MoE-LLaVA)]\
 6 Jul 2024
+
+**MoELoRA: Contrastive Learning Guided Mixture of Experts on Parameter-Efficient Fine-Tuning for Large Language Models**\
+_Tongxu Luo, Jiahe Lei, Fangyu Lei, Weihao Liu, Shizhu He, Jun Zhao, Kang Liu_\
+arXiv, [[Paper](https://arxiv.org/abs/2402.12851)]\
+20 Feb 2024
 
 ### Auxiliary Load Balance Loss
 _**A subset of experts is activated.**_\
