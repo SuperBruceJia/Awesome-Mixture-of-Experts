@@ -1,4 +1,4 @@
-# Awesome Mixture of Experts (MoE)
+# Awesome Multimodal Mixture of Experts (MoE/MoME)
 Awesome Mixture of Experts (MoE): A Curated List of Mixture of Experts (MoE) and Mixture of Multimodal Experts (MoME)
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/SuperBruceJia/Awesome-Mixture-of-Experts) 
@@ -113,7 +113,7 @@ _Bin Lin, Zhenyu Tang, Yang Ye, Jiaxi Cui, Bin Zhu, Peng Jin, Jinfa Huang, Junwu
 arXiv, [[Paper](https://arxiv.org/abs/2401.15947)] [[Codes](https://github.com/PKU-YuanGroup/MoE-LLaVA)]\
 6 Jul 2024
 
-**"q_proj", "v_proj" (InstructBLIP) and "up_proj", "down_proj" (LLaVA-1.5) - MoCLE: Mixture of Cluster-conditional LoRA Experts for Vision-language Instruction Tuning**\
+**_"q_proj", "v_proj" (InstructBLIP) and "up_proj", "down_proj" (LLaVA-1.5)_ - MoCLE: Mixture of Cluster-conditional LoRA Experts for Vision-language Instruction Tuning**\
 _Yunhao Gou, Zhili Liu, Kai Chen, Lanqing Hong, Hang Xu, Aoxue Li, Dit-Yan Yeung, James T. Kwok, Yu Zhang_\
 arXiv, [[Paper](https://arxiv.org/abs/2312.12379)]\
 4 Jul 2024
