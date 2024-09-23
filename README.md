@@ -96,6 +96,11 @@ _Bin Lin, Zhenyu Tang, Yang Ye, Jiaxi Cui, Bin Zhu, Peng Jin, Jinfa Huang, Junwu
 arXiv, [[Paper](https://arxiv.org/abs/2401.15947)] [[Codes](https://github.com/PKU-YuanGroup/MoE-LLaVA)]\
 6 Jul 2024
 
+**_Linear Layer_ - Mixture of Cluster-conditional LoRA Experts for Vision-language Instruction Tuning**\
+_Yunhao Gou, Zhili Liu, Kai Chen, Lanqing Hong, Hang Xu, Aoxue Li, Dit-Yan Yeung, James T. Kwok, Yu Zhang_\
+arXiv, [[Paper](https://arxiv.org/abs/2312.12379)]\
+4 Jul 2024
+
 **_FFN_ - LoRAMoE: Alleviate World Knowledge Forgetting in Large Language Models via MoE-Style Plugin**\
 _Shihan Dou, Enyu Zhou, Yan Liu, Songyang Gao, Jun Zhao, Wei Shen, Yuhao Zhou, Zhiheng Xi, Xiao Wang, Xiaoran Fan, Shiliang Pu, Jiang Zhu, Rui Zheng, Tao Gui, Qi Zhang, Xuanjing Huang_\
 arXiv, [[Paper](https://arxiv.org/abs/2312.09979)]\
