@@ -11,7 +11,6 @@ This repository, called **Mixture of Experts**, contains a collection of resourc
 
 ## Contents
 - [Course](#Course)
-- [Presentations](#Presentations)
 - [Books](#Books)
 - [Papers](#Papers)
   - [Survey](#Survey)
@@ -35,8 +34,6 @@ This repository, called **Mixture of Experts**, contains a collection of resourc
 _Percy Liang, Tatsunori Hashimoto, Christopher Ré_\
 [[Link](https://stanford-cs324.github.io/winter2022/lectures/selective-architectures/#mixture-of-experts)]\
 Winter 2022
-
-# Presentations
 
 # Books
 **The Path to Artificial General Intelligence: Insights from Adversarial LLM Dialogue**\
