@@ -89,6 +89,10 @@ arXiv, [[Paper](https://arxiv.org/abs/2105.15082)]\
 9 Aug 2021
 
 ### Parameter-efficient Fine-tuning
+**_Load Balance Loss_ - MixLoRA: Enhancing Large Language Models Fine-Tuning with LoRA-based Mixture of Experts**\
+_Dengchun Li, Yingzi Ma, Naizheng Wang, Zhengmao Ye, Zhiyuan Cheng, Yinghao Tang, Yan Zhang, Lei Duan, Jie Zuo, Cal Yang, Mingjie Tang_\
+arXiv, [[Paper](https://arxiv.org/abs/2404.15159)]\
+20 Jul 2024
 
 ### Auxiliary Load Balance Loss
 _**A subset of experts is activated.**_\
