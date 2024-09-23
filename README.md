@@ -91,7 +91,7 @@ _Dengchun Li, Yingzi Ma, Naizheng Wang, Zhengmao Ye, Zhiyuan Cheng, Yinghao Tang
 arXiv, [[Paper](https://arxiv.org/abs/2404.15159)]\
 20 Jul 2024
 
-**MoE-LLaVA: Mixture of Experts for Large Vision-Language Models**\
+**_FFN_ - MoE-LLaVA: Mixture of Experts for Large Vision-Language Models**\
 _Bin Lin, Zhenyu Tang, Yang Ye, Jiaxi Cui, Bin Zhu, Peng Jin, Jinfa Huang, Junwu Zhang, Yatian Pang, Munan Ning, Li Yuan_\
 arXiv, [[Paper](https://arxiv.org/abs/2401.15947)] [[Codes](https://github.com/PKU-YuanGroup/MoE-LLaVA)]\
 6 Jul 2024
