@@ -35,10 +35,15 @@ _Percy Liang, Tatsunori Hashimoto, Christopher Ré_\
 [[Link](https://stanford-cs324.github.io/winter2022/lectures/selective-architectures/#mixture-of-experts)]\
 Winter 2022
 
+**CSC321: Introduction to Neural Networks and Machine Learning - Lecture 15: Mixtures of Experts**\
+_Geoffrey Hinton_\
+[[Link](https://www.cs.toronto.edu/~hinton/csc321/notes/lec15.pdf)]\
+Winter 2014
+
 **CS 2750 Machine Learning: Ensamble methods. Mixtures of experts**\
 _Milos Hauskrecht_\
 [[Link](https://people.cs.pitt.edu/~milos/courses/cs2750-Spring04/lectures/class22.pdf)]\
-2004
+Spring 2004
 
 # Books
 **The Path to Artificial General Intelligence: Insights from Adversarial LLM Dialogue**\
