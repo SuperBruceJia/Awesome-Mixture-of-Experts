@@ -21,7 +21,7 @@ This repository, called **Awesome Mixture of Experts**, contains a collection of
     - [Auxiliary Load Balance Loss](#Auxiliary-Load-Balance-Loss)
       - [Load Balance Loss](#Load-Balance-Loss)
       - [z-loss](#z-loss)
-      - [Mutual Information](#Mutual-Information)
+      - [Mutual Information Loss](#Mutual-Information-Loss)
     - [Expert Capacity Limit](#Expert-Capacity-Limit)
     - [Non-trainable Gating Mechanism](#Non-trainable-Gating-Mechanism)
       - [Random Assignment](#Random-Assignment)
@@ -244,7 +244,7 @@ _Barret Zoph, Irwan Bello, Sameer Kumar, Nan Du, Yanping Huang, Jeff Dean, Noam 
 arXiv, [[Paper](https://arxiv.org/abs/2202.08906)]\
 29 Apr 2022
 
-### Mutual Information
+### Mutual Information Loss
 **_Mutual Information Loss and Mixture of Attention_ - Dense Training, Sparse Inference: Rethinking Training of Mixture-of-Experts Language Models**\
 _Bowen Pan, Yikang Shen, Haokun Liu, Mayank Mishra, Gaoyuan Zhang, Aude Oliva, Colin Raffel, Rameswar Panda_\
 arXiv, [[Paper](https://arxiv.org/abs/2404.05567)]\
