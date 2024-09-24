@@ -97,6 +97,11 @@ _Xiaofeng Zhang, Yikang Shen, Zeyu Huang, Jie Zhou, Wenge Rong, Zhang Xiong_\
 EMNLP 2022, [[Paper](https://arxiv.org/abs/2210.05144)]\
 11 Oct 2022
 
+**Multimodal Contrastive Learning with LIMoE: the Language-Image Mixture of Experts**\
+_Basil Mustafa, Carlos Riquelme, Joan Puigcerver, Rodolphe Jenatton, Neil Houlsby_\
+arXiv, [[Paper](https://arxiv.org/abs/2206.02770)]\
+6 Jun 2022
+
 **_k-group Top-1 Routing for Expert Prototyping_ - M6-T: Exploring Sparse Expert Models and Beyond**\
 _An Yang, Junyang Lin, Rui Men, Chang Zhou, Le Jiang, Xianyan Jia, Ang Wang, Jie Zhang, Jiamang Wang, Yong Li, Di Zhang, Wei Lin, Lin Qu, Jingren Zhou, Hongxia Yang_\
 arXiv, [[Paper](https://arxiv.org/abs/2105.15082)]\
