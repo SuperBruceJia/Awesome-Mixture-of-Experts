@@ -234,12 +234,12 @@ ICLR 2017, [[Paper](https://arxiv.org/abs/1701.06538)]\
 23 Jan 2017
 
 #### z-loss
-**_Load Balance Loss and Router Z-loss_ - OpenMoE: An Early Effort on Open Mixture-of-Experts Language Models**\
+**_Load Balance Loss and Router z-loss_ - OpenMoE: An Early Effort on Open Mixture-of-Experts Language Models**\
 _Fuzhao Xue, Zian Zheng, Yao Fu, Jinjie Ni, Zangwei Zheng, Wangchunshu Zhou, Yang You_\
 arXiv, [[Paper](https://arxiv.org/abs/2402.01739)]\
 27 Mar 2024
 
-**_Router Z-loss_ - ST-MoE: Designing Stable and Transferable Sparse Expert Models**\
+**_Router z-loss_ - ST-MoE: Designing Stable and Transferable Sparse Expert Models**\
 _Barret Zoph, Irwan Bello, Sameer Kumar, Nan Du, Yanping Huang, Jeff Dean, Noam Shazeer, William Fedus_\
 arXiv, [[Paper](https://arxiv.org/abs/2202.08906)]\
 29 Apr 2022
