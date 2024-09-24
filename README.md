@@ -97,6 +97,11 @@ _Albert Q. Jiang, Alexandre Sablayrolles, Antoine Roux, Arthur Mensch, Blanche S
 arXiv, [[Paper](https://arxiv.org/abs/2401.04088)]\
 8 Jan 2024
 
+**PaCE: Unified Multi-modal Dialogue Pre-training with Progressive and Compositional Experts**\
+_Yunshui Li, Binyuan Hui, ZhiChao Yin, Min Yang, Fei Huang, Yongbin Li_\
+ACL 2023, [[Paper](https://arxiv.org/abs/2305.14839)]\
+13 Jun 2023
+
 **Scaling Vision-Language Models with Sparse Mixture of Experts**\
 _Sheng Shen, Zhewei Yao, Chunyuan Li, Trevor Darrell, Kurt Keutzer, Yuxiong He_\
 arXiv, [[Paper](https://arxiv.org/abs/2303.07226)]\
