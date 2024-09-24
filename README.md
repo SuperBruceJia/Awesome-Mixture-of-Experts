@@ -187,7 +187,7 @@ EMNLP 2022, [[Paper](https://arxiv.org/abs/2205.12410)]\
 2 Nov 2022
 
 ### Auxiliary Load Balance Loss
-_**A subset of experts is activated.**_\
+#### Load Balance Loss
 **_Load Balance Loss_ - MixLoRA: Enhancing Large Language Models Fine-Tuning with LoRA-based Mixture of Experts**\
 _Dengchun Li, Yingzi Ma, Naizheng Wang, Zhengmao Ye, Zhiyuan Cheng, Yinghao Tang, Yan Zhang, Lei Duan, Jie Zuo, Cal Yang, Mingjie Tang_\
 arXiv, [[Paper](https://arxiv.org/abs/2404.15159)]\
@@ -198,20 +198,10 @@ _Bin Lin, Zhenyu Tang, Yang Ye, Jiaxi Cui, Bin Zhu, Peng Jin, Jinfa Huang, Junwu
 arXiv, [[Paper](https://arxiv.org/abs/2401.15947)] [[Codes](https://github.com/PKU-YuanGroup/MoE-LLaVA)]\
 6 Jul 2024
 
-**_Mutual Information Loss and Mixture of Attention_ - Dense Training, Sparse Inference: Rethinking Training of Mixture-of-Experts Language Models**\
-_Bowen Pan, Yikang Shen, Haokun Liu, Mayank Mishra, Gaoyuan Zhang, Aude Oliva, Colin Raffel, Rameswar Panda_\
-arXiv, [[Paper](https://arxiv.org/abs/2404.05567)]\
-8 Apr 2024
-
 **_Load Balance Loss and Router Z-loss_ - OpenMoE: An Early Effort on Open Mixture-of-Experts Language Models**\
 _Fuzhao Xue, Zian Zheng, Yao Fu, Jinjie Ni, Zangwei Zheng, Wangchunshu Zhou, Yang You_\
 arXiv, [[Paper](https://arxiv.org/abs/2402.01739)]\
 27 Mar 2024
-
-**_Localized Balancing Constraint Loss_ - LoRAMoE: Alleviate World Knowledge Forgetting in Large Language Models via MoE-Style Plugin**\
-_Shihan Dou, Enyu Zhou, Yan Liu, Songyang Gao, Jun Zhao, Wei Shen, Yuhao Zhou, Zhiheng Xi, Xiao Wang, Xiaoran Fan, Shiliang Pu, Jiang Zhu, Rui Zheng, Tao Gui, Qi Zhang, Xuanjing Huang_\
-arXiv, [[Paper](https://arxiv.org/abs/2312.09979)]\
-8 Mar 2024
 
 **_Load Balance Loss and Contrastive Loss_ - MoELoRA: Contrastive Learning Guided Mixture of Experts on Parameter-Efficient Fine-Tuning for Large Language Models**\
 _Tongxu Luo, Jiahe Lei, Fangyu Lei, Weihao Liu, Shizhu He, Jun Zhao, Kang Liu_\
@@ -223,6 +213,33 @@ _Yun Zhu, Nevan Wichers, Chu-Cheng Lin, Xinyi Wang, Tianlong Chen, Lei Shu, Han 
 arXiv, [[Paper]([15 Nov 2023](https://arxiv.org/abs/2311.09179))]\
 15 Nov 2023
 
+**_Top-1 Routing and Load Balance Loss_ - Switch Transformers: Scaling to Trillion Parameter Models with Simple and Efficient Sparsity**\
+_William Fedus, Barret Zoph, Noam Shazeer_\
+JMLR, [[Paper](https://arxiv.org/abs/2101.03961)]\
+16 Jun 2022
+
+**_Top-k Routing and Importance/Load Balance Losses_ - Outrageously Large Neural Networks: The Sparsely-Gated Mixture-of-Experts Layer**\
+_Noam Shazeer, Azalia Mirhoseini, Krzysztof Maziarz, Andy Davis, Quoc Le, Geoffrey Hinton, Jeff Dean_\
+ICLR 2017, [[Paper](https://arxiv.org/abs/1701.06538)]\
+23 Jan 2017
+
+#### z-loss
+**_Load Balance Loss and Router Z-loss_ - OpenMoE: An Early Effort on Open Mixture-of-Experts Language Models**\
+_Fuzhao Xue, Zian Zheng, Yao Fu, Jinjie Ni, Zangwei Zheng, Wangchunshu Zhou, Yang You_\
+arXiv, [[Paper](https://arxiv.org/abs/2402.01739)]\
+27 Mar 2024
+
+**_Router Z-loss_ - ST-MoE: Designing Stable and Transferable Sparse Expert Models**\
+_Barret Zoph, Irwan Bello, Sameer Kumar, Nan Du, Yanping Huang, Jeff Dean, Noam Shazeer, William Fedus_\
+arXiv, [[Paper](https://arxiv.org/abs/2202.08906)]\
+29 Apr 2022
+
+### Mutual Information
+**_Mutual Information Loss and Mixture of Attention_ - Dense Training, Sparse Inference: Rethinking Training of Mixture-of-Experts Language Models**\
+_Bowen Pan, Yikang Shen, Haokun Liu, Mayank Mishra, Gaoyuan Zhang, Aude Oliva, Colin Raffel, Rameswar Panda_\
+arXiv, [[Paper](https://arxiv.org/abs/2404.05567)]\
+8 Apr 2024
+
 **_Mutual Information Loss_ - ModuleFormer: Modularity Emerges from Mixture-of-Experts**\
 _Yikang Shen, Zheyu Zhang, Tianyou Cao, Shawn Tan, Zhenfang Chen, Chuang Gan_\
 arXiv, [[Paper](https://arxiv.org/abs/2306.04640)]\
@@ -233,25 +250,16 @@ _Zitian Chen, Yikang Shen, Mingyu Ding, Zhenfang Chen, Hengshuang Zhao, Erik Lea
 CVPR 2023, [[Paper](https://arxiv.org/abs/2212.08066)]\
 15 Dec 2022
 
-**_Top-1 Routing and Load Balance Loss_ - Switch Transformers: Scaling to Trillion Parameter Models with Simple and Efficient Sparsity**\
-_William Fedus, Barret Zoph, Noam Shazeer_\
-JMLR, [[Paper](https://arxiv.org/abs/2101.03961)]\
-16 Jun 2022
-
-**_Router Z-loss_ - ST-MoE: Designing Stable and Transferable Sparse Expert Models**\
-_Barret Zoph, Irwan Bello, Sameer Kumar, Nan Du, Yanping Huang, Jeff Dean, Noam Shazeer, William Fedus_\
-arXiv, [[Paper](https://arxiv.org/abs/2202.08906)]\
-29 Apr 2022
+#### Others
+**_Localized Balancing Constraint Loss_ - LoRAMoE: Alleviate World Knowledge Forgetting in Large Language Models via MoE-Style Plugin**\
+_Shihan Dou, Enyu Zhou, Yan Liu, Songyang Gao, Jun Zhao, Wei Shen, Yuhao Zhou, Zhiheng Xi, Xiao Wang, Xiaoran Fan, Shiliang Pu, Jiang Zhu, Rui Zheng, Tao Gui, Qi Zhang, Xuanjing Huang_\
+arXiv, [[Paper](https://arxiv.org/abs/2312.09979)]\
+8 Mar 2024
 
 **_Top-2 Routing and Mean Gates Per Experts Loss_ - GShard: Scaling Giant Models with Conditional Computation and Automatic Sharding**\
 _Dmitry Lepikhin, HyoukJoong Lee, Yuanzhong Xu, Dehao Chen, Orhan Firat, Yanping Huang, Maxim Krikun, Noam Shazeer, Zhifeng Chen_\
 arXiv, [[arXiv](https://arxiv.org/abs/2006.16668)]\
 30 Jun 2020
-
-**_Top-k Routing and Importance/Load Balance Losses_ - Outrageously Large Neural Networks: The Sparsely-Gated Mixture-of-Experts Layer**\
-_Noam Shazeer, Azalia Mirhoseini, Krzysztof Maziarz, Andy Davis, Quoc Le, Geoffrey Hinton, Jeff Dean_\
-ICLR 2017, [[Paper](https://arxiv.org/abs/1701.06538)]\
-23 Jan 2017
 
 ### Expert Capacity Limit
 **Dynamic Mixture of Experts: An Auto-Tuning Approach for Efficient Transformer Models**\
