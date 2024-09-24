@@ -18,7 +18,7 @@ This repository, called **Awesome Mixture of Experts**, contains a collection of
   - [Foundational Work](#Foundational-Work)
   - [Sparse Gating Mechanism](#Sparse-Gating-Mechanism)
     - [Parameter-efficient Fine-tuning](#Parameter-efficient-Fine-tuning)
-    - [Auxiliary Load Balancing Loss](#Auxiliary-Load-Balancing-Loss)
+    - [Auxiliary Load Balance Loss](#Auxiliary-Load-Balance-Loss)
     - [Expert Capacity Limit](#Expert-Capacity-Limit)
     - [Non-trainable Gating Mechanism](#Non-trainable-Gating-Mechanism)
       - [Random Assignment](#Random-Assignment)
