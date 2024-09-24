@@ -87,6 +87,11 @@ Neural Computation, [[Paper](https://ieeexplore.ieee.org/abstract/document/67970
 1991
 
 ## Sparse Gating Mechanism
+**Uni-MoE: Scaling Unified Multimodal LLMs with Mixture of Experts**\
+_Yunxin Li, Shenyuan Jiang, Baotian Hu, Longyue Wang, Wanqi Zhong, Wenhan Luo, Lin Ma, Min Zhang_\
+arXiv, [[Paper](https://arxiv.org/abs/2405.11273)]\
+18 May 2024
+
 **_Mistral AI_ - Mixtral of Experts**\
 _Albert Q. Jiang, Alexandre Sablayrolles, Antoine Roux, Arthur Mensch, Blanche Savary, Chris Bamford, Devendra Singh Chaplot, Diego de las Casas, Emma Bou Hanna, Florian Bressand, Gianna Lengyel, Guillaume Bour, Guillaume Lample, Lélio Renard Lavaud, Lucile Saulnier, Marie-Anne Lachaux, Pierre Stock, Sandeep Subramanian, Sophia Yang, Szymon Antoniak, Teven Le Scao, Théophile Gervet, Thibaut Lavril, Thomas Wang, Timothée Lacroix, William El Sayed_\
 arXiv, [[Paper](https://arxiv.org/abs/2401.04088)]\
