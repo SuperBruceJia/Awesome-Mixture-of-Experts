@@ -97,6 +97,11 @@ _Albert Q. Jiang, Alexandre Sablayrolles, Antoine Roux, Arthur Mensch, Blanche S
 arXiv, [[Paper](https://arxiv.org/abs/2401.04088)]\
 8 Jan 2024
 
+**Scaling Vision-Language Models with Sparse Mixture of Experts**\
+_Sheng Shen, Zhewei Yao, Chunyuan Li, Trevor Darrell, Kurt Keutzer, Yuxiong He_\
+arXiv, [[Paper](https://arxiv.org/abs/2303.07226)]\
+13 Mar 2023
+
 **_Mixture of Attention Heads (MoA)_ - Mixture of Attention Heads: Selecting Attention Heads Per Token**\
 _Xiaofeng Zhang, Yikang Shen, Zeyu Huang, Jie Zhou, Wenge Rong, Zhang Xiong_\
 EMNLP 2022, [[Paper](https://arxiv.org/abs/2210.05144)]\
