@@ -203,6 +203,11 @@ _Fuzhao Xue, Zian Zheng, Yao Fu, Jinjie Ni, Zangwei Zheng, Wangchunshu Zhou, Yan
 arXiv, [[Paper](https://arxiv.org/abs/2402.01739)]\
 27 Mar 2024
 
+**_Localized Balancing Constraint Loss_ - LoRAMoE: Alleviate World Knowledge Forgetting in Large Language Models via MoE-Style Plugin**\
+_Shihan Dou, Enyu Zhou, Yan Liu, Songyang Gao, Jun Zhao, Wei Shen, Yuhao Zhou, Zhiheng Xi, Xiao Wang, Xiaoran Fan, Shiliang Pu, Jiang Zhu, Rui Zheng, Tao Gui, Qi Zhang, Xuanjing Huang_\
+arXiv, [[Paper](https://arxiv.org/abs/2312.09979)]\
+8 Mar 2024
+
 **_Load Balance Loss and Contrastive Loss_ - MoELoRA: Contrastive Learning Guided Mixture of Experts on Parameter-Efficient Fine-Tuning for Large Language Models**\
 _Tongxu Luo, Jiahe Lei, Fangyu Lei, Weihao Liu, Shizhu He, Jun Zhao, Kang Liu_\
 arXiv, [[Paper](https://arxiv.org/abs/2402.12851)]\
@@ -217,6 +222,11 @@ arXiv, [[Paper]([15 Nov 2023](https://arxiv.org/abs/2311.09179))]\
 _William Fedus, Barret Zoph, Noam Shazeer_\
 JMLR, [[Paper](https://arxiv.org/abs/2101.03961)]\
 16 Jun 2022
+
+**_Top-2 Routing and Mean Gates Per Experts Loss_ - GShard: Scaling Giant Models with Conditional Computation and Automatic Sharding**\
+_Dmitry Lepikhin, HyoukJoong Lee, Yuanzhong Xu, Dehao Chen, Orhan Firat, Yanping Huang, Maxim Krikun, Noam Shazeer, Zhifeng Chen_\
+arXiv, [[arXiv](https://arxiv.org/abs/2006.16668)]\
+30 Jun 2020
 
 **_Top-k Routing and Importance/Load Balance Losses_ - Outrageously Large Neural Networks: The Sparsely-Gated Mixture-of-Experts Layer**\
 _Noam Shazeer, Azalia Mirhoseini, Krzysztof Maziarz, Andy Davis, Quoc Le, Geoffrey Hinton, Jeff Dean_\
@@ -249,17 +259,6 @@ arXiv, [[Paper](https://arxiv.org/abs/2306.04640)]\
 _Zitian Chen, Yikang Shen, Mingyu Ding, Zhenfang Chen, Hengshuang Zhao, Erik Learned-Miller, Chuang Gan_\
 CVPR 2023, [[Paper](https://arxiv.org/abs/2212.08066)]\
 15 Dec 2022
-
-#### Others
-**_Localized Balancing Constraint Loss_ - LoRAMoE: Alleviate World Knowledge Forgetting in Large Language Models via MoE-Style Plugin**\
-_Shihan Dou, Enyu Zhou, Yan Liu, Songyang Gao, Jun Zhao, Wei Shen, Yuhao Zhou, Zhiheng Xi, Xiao Wang, Xiaoran Fan, Shiliang Pu, Jiang Zhu, Rui Zheng, Tao Gui, Qi Zhang, Xuanjing Huang_\
-arXiv, [[Paper](https://arxiv.org/abs/2312.09979)]\
-8 Mar 2024
-
-**_Top-2 Routing and Mean Gates Per Experts Loss_ - GShard: Scaling Giant Models with Conditional Computation and Automatic Sharding**\
-_Dmitry Lepikhin, HyoukJoong Lee, Yuanzhong Xu, Dehao Chen, Orhan Firat, Yanping Huang, Maxim Krikun, Noam Shazeer, Zhifeng Chen_\
-arXiv, [[arXiv](https://arxiv.org/abs/2006.16668)]\
-30 Jun 2020
 
 ### Expert Capacity Limit
 **Dynamic Mixture of Experts: An Auto-Tuning Approach for Efficient Transformer Models**\
