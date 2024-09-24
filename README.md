@@ -122,6 +122,11 @@ _An Yang, Junyang Lin, Rui Men, Chang Zhou, Le Jiang, Xianyan Jia, Ang Wang, Jie
 arXiv, [[Paper](https://arxiv.org/abs/2105.15082)]\
 9 Aug 2021
 
+**Scaling Vision with Sparse Mixture of Experts**\
+_Carlos Riquelme, Joan Puigcerver, Basil Mustafa, Maxim Neumann, Rodolphe Jenatton, André Susano Pinto, Daniel Keysers, Neil Houlsby_\
+arXiv, [[Paper](https://arxiv.org/abs/2106.05974)]\
+10 Jun 2021
+
 ### Parameter-efficient Fine-tuning
 **_Shared FFN_ - MixLoRA: Enhancing Large Language Models Fine-Tuning with LoRA-based Mixture of Experts**\
 _Dengchun Li, Yingzi Ma, Naizheng Wang, Zhengmao Ye, Zhiyuan Cheng, Yinghao Tang, Yan Zhang, Lei Duan, Jie Zuo, Cal Yang, Mingjie Tang_\
