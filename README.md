@@ -321,7 +321,7 @@ _Simiao Zuo, Xiaodong Liu, Jian Jiao, Young Jin Kim, Hany Hassan, Ruofei Zhang, 
 ICLR 2022, [[Paper](https://arxiv.org/abs/2110.04260)]\
 3 Feb 2022
 
-**Hash Layers For Large Sparse Models**\
+**_Hash Routing_ - Hash Layers For Large Sparse Models**\
 _Stephen Roller, Sainbayar Sukhbaatar, Arthur Szlam, Jason Weston_\
 arXiv, [[Paper](https://arxiv.org/abs/2106.04426)]\
 20 Jul 2021
