@@ -31,6 +31,7 @@ This repository, called **Awesome Mixture of Experts**, contains a collection of
       - [Random Assignment](#Random-Assignment)
       - [Domain Mapping](#Domain-Mapping)
     - [Expert-choice Gating](#Expert-choice-Gating)
+    - [From Dense to Sparse](#From-Dense-to-Sparse)
   - [Dense Gating Mechanism](#Dense-Gating-Mechanism)
   - [Soft Gating Mechanism](#Soft-Gating-Mechanism)
     - [Token Merging](#Token-Merging)
@@ -112,11 +113,6 @@ Neural Computation, [[Paper](https://ieeexplore.ieee.org/abstract/document/67970
 _Yunxin Li, Shenyuan Jiang, Baotian Hu, Longyue Wang, Wanqi Zhong, Wenhan Luo, Lin Ma, Min Zhang_\
 arXiv, [[Paper](https://arxiv.org/abs/2405.11273)]\
 18 May 2024
-
-**_Sparse Upcycling from Dense to Sparse_ - Sparse Upcycling: Training Mixture-of-Experts from Dense Checkpoints**\
-_Aran Komatsuzaki, Joan Puigcerver, James Lee-Thorp, Carlos Riquelme Ruiz, Basil Mustafa, Joshua Ainslie, Yi Tay, Mostafa Dehghani, Neil Houlsby_\
-ICLR 2023, [[Paper](https://arxiv.org/abs/2212.05055)]\
-17 Feb 2023
 
 **_Fine-grained and Shared Experts_ - DeepSeekMoE: Towards Ultimate Expert Specialization in Mixture-of-Experts Language Models**\
 _Damai Dai, Chengqi Deng, Chenggang Zhao, R.X. Xu, Huazuo Gao, Deli Chen, Jiashi Li, Wangding Zeng, Xingkai Yu, Y. Wu, Zhenda Xie, Y.K. Li, Panpan Huang, Fuli Luo, Chong Ruan, Zhifang Sui, Wenfeng Liang_\
@@ -352,6 +348,12 @@ arXiv, [[Paper](https://arxiv.org/abs/2108.05036)]\
 _Yanqi Zhou, Tao Lei, Hanxiao Liu, Nan Du, Yanping Huang, Vincent Zhao, Andrew Dai, Zhifeng Chen, Quoc Le, James Laudon_\
 NeurIPS 2022, [[Paper](https://arxiv.org/abs/2202.09368)]\
 14 Oct 2022
+
+### From Dense to Sparse
+**_Sparse Upcycling_ - Sparse Upcycling: Training Mixture-of-Experts from Dense Checkpoints**\
+_Aran Komatsuzaki, Joan Puigcerver, James Lee-Thorp, Carlos Riquelme Ruiz, Basil Mustafa, Joshua Ainslie, Yi Tay, Mostafa Dehghani, Neil Houlsby_\
+ICLR 2023, [[Paper](https://arxiv.org/abs/2212.05055)]\
+17 Feb 2023
 
 ## Dense Gating Mechanism
 _**All the experts are activated.**_\
