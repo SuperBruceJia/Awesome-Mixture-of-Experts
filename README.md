@@ -199,6 +199,11 @@ _Yun Zhu, Nevan Wichers, Chu-Cheng Lin, Xinyi Wang, Tianlong Chen, Lei Shu, Han 
 arXiv, [[Paper]([15 Nov 2023](https://arxiv.org/abs/2311.09179))]\
 15 Nov 2023
 
+**_Mixture of Vectors (MoV)_ & _Mixture of LORA (MoLORA)_ - Pushing Mixture of Experts to the Limit: Extremely Parameter Efficient MoE for Instruction Tuning**\
+_Ted Zadouri, Ahmet Üstün, Arash Ahmadian, Beyza Ermiş, Acyr Locatelli, Sara Hooker_\
+arXiv, [[Paper](https://arxiv.org/abs/2309.05444)]\
+11 Sep 2023
+
 **AdaMix: Mixture-of-Adaptations for Parameter-efficient Model Tuning**\
 _Yaqing Wang, Sahaj Agarwal, Subhabrata Mukherjee, Xiaodong Liu, Jing Gao, Ahmed Hassan Awadallah, Jianfeng Gao_\
 EMNLP 2022, [[Paper](https://arxiv.org/abs/2205.12410)]\
