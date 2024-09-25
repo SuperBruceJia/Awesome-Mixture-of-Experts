@@ -350,6 +350,11 @@ NeurIPS 2022, [[Paper](https://arxiv.org/abs/2202.09368)]\
 14 Oct 2022
 
 ### From Dense to Sparse
+**_Sparse Upcycling_ - Mixtral 8x22B**\
+_Mistral AI team_\
+[[Link](https://mistral.ai/news/mixtral-8x22b/)]\
+17 April 2024 
+
 **_Sparse Upcycling_ - Sparse Upcycling: Training Mixture-of-Experts from Dense Checkpoints**\
 _Aran Komatsuzaki, Joan Puigcerver, James Lee-Thorp, Carlos Riquelme Ruiz, Basil Mustafa, Joshua Ainslie, Yi Tay, Mostafa Dehghani, Neil Houlsby_\
 ICLR 2023, [[Paper](https://arxiv.org/abs/2212.05055)]\
