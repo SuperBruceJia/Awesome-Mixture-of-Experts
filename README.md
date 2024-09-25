@@ -113,6 +113,11 @@ _Yunxin Li, Shenyuan Jiang, Baotian Hu, Longyue Wang, Wanqi Zhong, Wenhan Luo, L
 arXiv, [[Paper](https://arxiv.org/abs/2405.11273)]\
 18 May 2024
 
+**_Sparse Upcycling from Dense to Sparse_ - Sparse Upcycling: Training Mixture-of-Experts from Dense Checkpoints**\
+_Aran Komatsuzaki, Joan Puigcerver, James Lee-Thorp, Carlos Riquelme Ruiz, Basil Mustafa, Joshua Ainslie, Yi Tay, Mostafa Dehghani, Neil Houlsby_\
+ICLR 2023, [[Paper](https://arxiv.org/abs/2212.05055)]\
+17 Feb 2023
+
 **_Fine-grained and Shared Experts_ - DeepSeekMoE: Towards Ultimate Expert Specialization in Mixture-of-Experts Language Models**\
 _Damai Dai, Chengqi Deng, Chenggang Zhao, R.X. Xu, Huazuo Gao, Deli Chen, Jiashi Li, Wangding Zeng, Xingkai Yu, Y. Wu, Zhenda Xie, Y.K. Li, Panpan Huang, Fuli Luo, Chong Ruan, Zhifang Sui, Wenfeng Liang_\
 arXiv, [[Paper](https://arxiv.org/abs/2401.06066)]\
