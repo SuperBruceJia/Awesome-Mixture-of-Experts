@@ -364,6 +364,11 @@ _Tong Zhu, Xiaoye Qu, Daize Dong, Jiacheng Ruan, Jingqi Tong, Conghui He, Yu Che
 arXiv, [[Paper](https://arxiv.org/abs/2406.16554)]\
 24 Jun 2024
 
+**_Evenly Splitting_ - Sparse MoE as the New Dropout: Scaling Dense and Self-Slimmable Transformers**\
+_Tianlong Chen, Zhenyu Zhang, Ajay Jaiswal, Shiwei Liu, Zhangyang Wang_\
+arXiv, [[Paper](https://arxiv.org/abs/2303.01610)]\
+2 Mar 2023
+
 **_Activation Diversity of Different Neurons_ - MoEfication: Transformer Feed-forward Layers are Mixtures of Experts**\
 _Zhengyan Zhang, Yankai Lin, Zhiyuan Liu, Peng Li, Maosong Sun, Jie Zhou_\
 ACL Findings 2022, [[Paper](https://arxiv.org/abs/2110.01786)]\
