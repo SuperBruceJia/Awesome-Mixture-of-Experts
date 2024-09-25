@@ -79,6 +79,16 @@ TMLR, [[Paper](https://arxiv.org/abs/2401.15969)]\
 18 Apr 2024
 
 ## Foundational Work
+**_Sparse-Gated Mixture of Experts in Transformer_ - Switch Transformers: Scaling to Trillion Parameter Models with Simple and Efficient Sparsity**\
+_William Fedus, Barret Zoph, Noam Shazeer_\
+JMLR, [[Paper](https://arxiv.org/abs/2101.03961)]\
+16 Jun 2022
+
+**_Sparse-Gated Mixture of Experts in LSTM_ - Outrageously Large Neural Networks: The Sparsely-Gated Mixture-of-Experts Layer**\
+_Noam Shazeer, Azalia Mirhoseini, Krzysztof Maziarz, Andy Davis, Quoc Le, Geoffrey Hinton, Jeff Dean_\
+ICLR 2017, [[Paper](https://arxiv.org/abs/1701.06538)]\
+23 Jan 2017
+
 **Hierarchical Mixtures of Experts and the EM Algorithm**\
 _Michael I. Jordan, Robert A. Jacobs_\
 Neural Computation, [[Paper](https://www.cs.toronto.edu/~hinton/absps/hme.pdf)]\
