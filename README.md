@@ -359,10 +359,15 @@ ICLR 2023, [[Paper](https://arxiv.org/abs/2212.05055)]\
 17 Feb 2023
 
 #### Sparse Splitting
-**_Sparse Splitting_ - LLaMA-MoE: Building Mixture-of-Experts from LLaMA with Continual Pre-training**\
+**_Neuron-Independent and Neuron-Sharing_ - LLaMA-MoE: Building Mixture-of-Experts from LLaMA with Continual Pre-training**\
 _Tong Zhu, Xiaoye Qu, Daize Dong, Jiacheng Ruan, Jingqi Tong, Conghui He, Yu Cheng_\
 arXiv, [[Paper](https://arxiv.org/abs/2406.16554)]\
 24 Jun 2024
+
+**_Activation Diversity of Different Neurons_ - MoEfication: Transformer Feed-forward Layers are Mixtures of Experts**
+_Zhengyan Zhang, Yankai Lin, Zhiyuan Liu, Peng Li, Maosong Sun, Jie Zhou_\
+ACL Findings 2022, [[Paper](https://arxiv.org/abs/2110.01786)]\
+5 Apr 2022
 
 ## Dense Gating Mechanism
 _**All the experts are activated.**_\
