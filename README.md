@@ -32,6 +32,8 @@ This repository, called **Awesome Mixture of Experts**, contains a collection of
       - [Domain Mapping](#Domain-Mapping)
     - [Expert-choice Gating](#Expert-choice-Gating)
     - [From Dense to Sparse](#From-Dense-to-Sparse)
+      - [Sparse Upcycling](#Sparse-Upcycling)
+      - [Sparse Splitting](#Sparse-Splitting)
   - [Dense Gating Mechanism](#Dense-Gating-Mechanism)
   - [Soft Gating Mechanism](#Soft-Gating-Mechanism)
     - [Token Merging](#Token-Merging)
@@ -350,15 +352,17 @@ NeurIPS 2022, [[Paper](https://arxiv.org/abs/2202.09368)]\
 14 Oct 2022
 
 ### From Dense to Sparse
-**_Sparse Upcycling_ - Mixtral 8x22B**\
-_Mistral AI team_\
-[[Link](https://mistral.ai/news/mixtral-8x22b/)]\
-17 April 2024 
-
-**_Sparse Upcycling_ - Sparse Upcycling: Training Mixture-of-Experts from Dense Checkpoints**\
+#### Sparse Upcycling 
+**Sparse Upcycling: Training Mixture-of-Experts from Dense Checkpoints**\
 _Aran Komatsuzaki, Joan Puigcerver, James Lee-Thorp, Carlos Riquelme Ruiz, Basil Mustafa, Joshua Ainslie, Yi Tay, Mostafa Dehghani, Neil Houlsby_\
 ICLR 2023, [[Paper](https://arxiv.org/abs/2212.05055)]\
 17 Feb 2023
+
+#### Sparse Splitting
+**_Sparse Splitting_ - LLaMA-MoE: Building Mixture-of-Experts from LLaMA with Continual Pre-training**\
+_Tong Zhu, Xiaoye Qu, Daize Dong, Jiacheng Ruan, Jingqi Tong, Conghui He, Yu Cheng_\
+arXiv, [[Paper](https://arxiv.org/abs/2406.16554)]\
+24 Jun 2024
 
 ## Dense Gating Mechanism
 _**All the experts are activated.**_\
