@@ -158,6 +158,11 @@ _Carlos Riquelme, Joan Puigcerver, Basil Mustafa, Maxim Neumann, Rodolphe Jenatt
 arXiv, [[Paper](https://arxiv.org/abs/2106.05974)]\
 10 Jun 2021
 
+**_Routing as a Linear Assignment Problem_ - BASE Layers: Simplifying Training of Large, Sparse Models**\
+_Mike Lewis, Shruti Bhosale, Tim Dettmers, Naman Goyal, Luke Zettlemoyer_\
+arXiv, [[Paper](https://arxiv.org/abs/2103.16716)]\
+30 Mar 2021
+
 ### Parameter-efficient Fine-tuning
 **_Shared FFN_ - MixLoRA: Enhancing Large Language Models Fine-Tuning with LoRA-based Mixture of Experts**\
 _Dengchun Li, Yingzi Ma, Naizheng Wang, Zhengmao Ye, Zhiyuan Cheng, Yinghao Tang, Yan Zhang, Lei Duan, Jie Zuo, Cal Yang, Mingjie Tang_\
