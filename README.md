@@ -236,7 +236,12 @@ _Bin Lin, Zhenyu Tang, Yang Ye, Jiaxi Cui, Bin Zhu, Peng Jin, Jinfa Huang, Junwu
 arXiv, [[Paper](https://arxiv.org/abs/2401.15947)] [[Codes](https://github.com/PKU-YuanGroup/MoE-LLaVA)]\
 6 Jul 2024
 
-**_Load Balance Loss and Router Z-loss_ - OpenMoE: An Early Effort on Open Mixture-of-Experts Language Models**\
+**_Load Balance Loss and Router z-loss_ - JetMoE: Reaching Llama2 Performance with 0.1M Dollars**\
+_Yikang Shen, Zhen Guo, Tianle Cai, Zengyi Qin_\
+arXiv, [[Paper](https://arxiv.org/abs/2404.07413)]\
+11 Apr 2024
+
+**_Load Balance Loss and Router z-loss_ - OpenMoE: An Early Effort on Open Mixture-of-Experts Language Models**\
 _Fuzhao Xue, Zian Zheng, Yao Fu, Jinjie Ni, Zangwei Zheng, Wangchunshu Zhou, Yang You_\
 arXiv, [[Paper](https://arxiv.org/abs/2402.01739)]\
 27 Mar 2024
@@ -272,6 +277,11 @@ ICLR 2017, [[Paper](https://arxiv.org/abs/1701.06538)]\
 23 Jan 2017
 
 #### z-loss
+**_Load Balance Loss and Router z-loss_ - JetMoE: Reaching Llama2 Performance with 0.1M Dollars**\
+_Yikang Shen, Zhen Guo, Tianle Cai, Zengyi Qin_\
+arXiv, [[Paper](https://arxiv.org/abs/2404.07413)]\
+11 Apr 2024
+
 **_Load Balance Loss and Router z-loss_ - OpenMoE: An Early Effort on Open Mixture-of-Experts Language Models**\
 _Fuzhao Xue, Zian Zheng, Yao Fu, Jinjie Ni, Zangwei Zheng, Wangchunshu Zhou, Yang You_\
 arXiv, [[Paper](https://arxiv.org/abs/2402.01739)]\
