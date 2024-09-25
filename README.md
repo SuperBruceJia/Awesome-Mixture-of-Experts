@@ -333,7 +333,7 @@ arXiv, [[Paper](https://arxiv.org/abs/2108.05036)]\
 20 Aug 2021
 
 ### Expert-choice Gating
-**Mixture-of-Experts with Expert Choice Routing**\
+**_Expert Chooses Tokens_ - Mixture-of-Experts with Expert Choice Routing**\
 _Yanqi Zhou, Tao Lei, Hanxiao Liu, Nan Du, Yanping Huang, Vincent Zhao, Andrew Dai, Zhifeng Chen, Quoc Le, James Laudon_\
 NeurIPS 2022, [[Paper](https://arxiv.org/abs/2202.09368)]\
 14 Oct 2022
