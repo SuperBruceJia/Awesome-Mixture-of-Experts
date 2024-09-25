@@ -218,7 +218,7 @@ _Yun Zhu, Nevan Wichers, Chu-Cheng Lin, Xinyi Wang, Tianlong Chen, Lei Shu, Han 
 arXiv, [[Paper]([15 Nov 2023](https://arxiv.org/abs/2311.09179))]\
 15 Nov 2023
 
-**_Top-1 Routing and Load Balance Loss_ - Switch Transformers: Scaling to Trillion Parameter Models with Simple and Efficient Sparsity**\
+**_Top-1 Routing and Load Balance Loss_ & _Sparse-Gated Mixture of Experts in Transformer_ - Switch Transformers: Scaling to Trillion Parameter Models with Simple and Efficient Sparsity**\
 _William Fedus, Barret Zoph, Noam Shazeer_\
 JMLR, [[Paper](https://arxiv.org/abs/2101.03961)]\
 16 Jun 2022
