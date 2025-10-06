@@ -13,6 +13,7 @@ This repository, called **Awesome Mixture of Experts**, contains a collection of
 - [Course](#Course)
 - [Presentation](#Presentation)
 - [Books](#Books)
+- [Projects](#Projects)
 - [Papers](#Papers)
   - [Survey](#Survey)
   - [Foundational Work](#Foundational-Work)
@@ -79,6 +80,12 @@ March 2024
 _Gerhard Paaß, Sven Giesselbach_\
 Artificial Intelligence: Foundations, Theory, and Algorithms (Springer Nature), [[Link](https://link.springer.com/book/10.1007/978-3-031-23190-2)]\
 16 Feb 2023
+
+# Projects
+**GPT-OSS MoE Expert Fingerprinting & Specialized Model Pruning**\
+_Aman Priyanshu, Supriti Vijay_\
+2025, [[GitHub](https://github.com/AmanPriyanshu/GPT-OSS-MoE-ExpertFingerprinting)] [[Models](https://huggingface.co/collections/AmanPriyanshu/gpt-oss-pruned-experts-42b-20b-if-science-math-etc-689c380a366950b1787a20c6/)]\
+Behavioral pattern analysis and specialization mapping of experts in GPT-OSS-20B's Mixture-of-Experts architecture. Includes 232 specialized pruned models (4.2B-20.9B parameters) across 8 domains, interactive token-level visualization dashboards, and systematic expert pruning methodology for creating domain-specific deployments.
 
 # Papers
 ## Survey
