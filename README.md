@@ -87,6 +87,11 @@ _Aman Priyanshu, Supriti Vijay_\
 2025, [[GitHub](https://github.com/AmanPriyanshu/GPT-OSS-MoE-ExpertFingerprinting)] [[Models](https://huggingface.co/collections/AmanPriyanshu/gpt-oss-pruned-experts-42b-20b-if-science-math-etc-689c380a366950b1787a20c6/)]\
 Behavioral pattern analysis and specialization mapping of experts in GPT-OSS-20B's Mixture-of-Experts architecture. Includes 232 specialized pruned models (4.2B-20.9B parameters) across 8 domains, interactive token-level visualization dashboards, and systematic expert pruning methodology for creating domain-specific deployments.
 
+**TECS-L (Golden MoE): Optimal Inhibition Theory for Mixture of Experts**\
+_Min Woo Park_\
+2025, [[GitHub](https://github.com/need-singularity/TECS-L)]\
+Theoretical proof that the optimal MoE inhibition ratio is I ≈ 1/e ≈ 0.368 (Golden Zone: I ∈ [0.213, 0.500]), derived from the gain equation G = D × P / I. Includes Dense-to-MoE conversion code with BoltzmannRouter and full fine-tuning pipeline, achieving PPL 1.4 from Mistral 7B.
+
 # Papers
 ## Survey
 **A Survey on Mixture of Experts**\
