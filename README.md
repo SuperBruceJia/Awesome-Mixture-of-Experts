@@ -70,6 +70,11 @@ _Tianlong Chen, Yu Cheng, Beidi Chen, Minjia Zhang, Mohit Bansal_\
 ICML 2024, [[Link](https://moe-tutorial.github.io/)] [[Slides](https://icml.cc/media/icml-2024/Slides/35222_1r94S59.pdf#page=1.00)]\
 2024
 
+**Anatomy of a high-performance EP kernel**\
+_Fergus Finn_\
+Doubleword Blog 2026, [[Link](https://blog.doubleword.ai/anatomy-of-a-high-performance-ep-kernel)]\
+2026
+
 # Books
 **Multi-LLM Agent Collaborative Intelligence: The Path to Artificial General Intelligence**\
 _Edward Y. Chang_\
