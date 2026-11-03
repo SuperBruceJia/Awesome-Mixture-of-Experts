@@ -337,6 +337,11 @@ arXiv, [[Paper](https://arxiv.org/abs/2412.19437)] [[GitHub](https://github.com/
 27 Dec 2024
 
 #### Auxiliary-Loss-Free Load Balancing
+**_Bias-based Routing + Condenser Experts_ - Preserving Long-Tailed Expert Information in Mixture-of-Experts Tuning**\
+_Haoze He, Xingyuan Ding, Xuan Jiang, Xinkai Zou, Alex Cheng, Yibo Zhao, Juncheng Billy Li, Heather Miller_\
+COLM 2026, [[Paper](https://arxiv.org/abs/2604.23036)] [[GitHub](https://github.com/HectorHHZ/ExpertCondenser)]\
+24 Apr 2026
+
 **_Dynamic Adjustment_ - DeepSeek-V3 Technical Report**\
 _DeepSeek-AI_\
 arXiv, [[Paper](https://arxiv.org/abs/2412.19437)] [[GitHub](https://github.com/deepseek-ai/DeepSeek-V3)]\
