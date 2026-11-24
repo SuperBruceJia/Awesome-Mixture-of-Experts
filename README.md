@@ -92,6 +92,11 @@ _Aman Priyanshu, Supriti Vijay_\
 2025, [[GitHub](https://github.com/AmanPriyanshu/GPT-OSS-MoE-ExpertFingerprinting)] [[Models](https://huggingface.co/collections/AmanPriyanshu/gpt-oss-pruned-experts-42b-20b-if-science-math-etc-689c380a366950b1787a20c6/)]\
 Behavioral pattern analysis and specialization mapping of experts in GPT-OSS-20B's Mixture-of-Experts architecture. Includes 232 specialized pruned models (4.2B-20.9B parameters) across 8 domains, interactive token-level visualization dashboards, and systematic expert pruning methodology for creating domain-specific deployments.
 
+**Mantiq: Standalone Local Inference Engine for Large Mixture-of-Experts Models**\
+_dahanco_\
+2026, [[GitHub](https://github.com/dahanco/mantiq)]\
+Local C++/CUDA runtime for large MoE GGUF models on consumer hardware: experts are tiered across VRAM, system RAM and NVMe using the routing decision, with per-machine calibration, custom grouped-expert and AVX-2 kernels, and a browser dashboard.
+
 # Papers
 ## Survey
 **A Survey on Mixture of Experts**\
